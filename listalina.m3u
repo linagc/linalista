@@ -1,0 +1,1139 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="07 | GAMATV" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/01/gamatv-500x500.png" group-title="ECUADOR ",07 | GAMATV
+http://magmas5.com:8000/malotv/gratis/2569
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="08 | TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",08 | TC TELEVISION HD
+http://magmas5.com:8000/malotv/gratis/2571
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="09 | TC TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR ",09 | TC TELEVISION
+http://magmas5.com:8000/malotv/gratis/2572
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="10 | TC INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TC_TV_INTERNACIONAL.png" group-title="ECUADOR ",10 | TC INTERNACIONAL
+http://magmas5.com:8000/malotv/gratis/3591
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="11 | CANAL UNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_Uno_%28Ecuador%29_logo.png/1200px-Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR ",11 | CANAL UNO HD
+http://magmas5.com:8000/malotv/gratis/3592
+#EXTINF:-1 tvg-id="" tvg-name="12 | OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR ",12 | OROMAR TV
+http://magmas5.com:8000/malotv/gratis/3593
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="13 | ECUADOR TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/ecuador-tv.png" group-title="ECUADOR ",13 | ECUADOR TV
+http://magmas5.com:8000/malotv/gratis/3594
+#EXTINF:-1 tvg-id="" tvg-name="14 | UCSG  TV " tvg-logo="https://image.roku.com/developer_channels/prod/f5c7ba191dbb1cd5746b2c2d96092df08ae31354fab5e7834c348c75365096e0.png" group-title="ECUADOR ",14 | UCSG  TV 
+http://magmas5.com:8000/malotv/gratis/3595
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="SUR | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANALES AMÉRICA SUR STD",SUR | STAR CHANNEL
+http://magmas5.com:8000/malotv/gratis/4781
+#EXTINF:-1 tvg-id="StarLifeMexico.mx" tvg-name="SUR | STAR LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | STAR LIFE
+http://magmas5.com:8000/malotv/gratis/4782
+#EXTINF:-1 tvg-id="" tvg-name="SUR | DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISTRITO COMEDIA
+http://magmas5.com:8000/malotv/gratis/4783
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="SUR | STAR CHANNEL" tvg-logo="https://www.jing.fm/clipimg/full/128-1288451_star-movies-logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | STAR CHANNEL
+http://magmas5.com:8000/malotv/gratis/4784
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANALES AMÉRICA SUR STD",SUR | TNT SERIES
+http://magmas5.com:8000/malotv/gratis/4785
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="SUR | FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | FOX SPORTS PREMIUM
+http://magmas5.com:8000/malotv/gratis/4787
+#EXTINF:-1 tvg-id="" tvg-name="SUR | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | FX
+http://magmas5.com:8000/malotv/gratis/4788
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="SUR | FX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | FX MOVIES
+http://magmas5.com:8000/malotv/gratis/4789
+#EXTINF:-1 tvg-id="" tvg-name="SUR | DISCOVERY INVESTIGATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY INVESTIGATION
+http://magmas5.com:8000/malotv/gratis/4790
+#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="SUR | DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY KIDS
+http://magmas5.com:8000/malotv/gratis/4791
+#EXTINF:-1 tvg-id="" tvg-name="SUR | DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY TURBO
+http://magmas5.com:8000/malotv/gratis/4792
+#EXTINF:-1 tvg-id="" tvg-name="SUR | DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISNEY XD
+http://magmas5.com:8000/malotv/gratis/4793
+#EXTINF:-1 tvg-id="ESPN2HDArgentina.ar" tvg-name="SUR | ESPN 2" tvg-logo="https://i.pinimg.com/originals/da/cc/72/dacc72028a780576222fd09cfa427059.png" group-title="CANALES AMÉRICA SUR STD",SUR | ESPN 2
+http://magmas5.com:8000/malotv/gratis/4794
+#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="SUR | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | ESPN 3
+http://magmas5.com:8000/malotv/gratis/4795
+#EXTINF:-1 tvg-id="" tvg-name="SUR | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | HBO
+http://magmas5.com:8000/malotv/gratis/4796
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="SUR | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | HBO 2
+http://magmas5.com:8000/malotv/gratis/4797
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="SUR | HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | HBO FAMILY
+http://magmas5.com:8000/malotv/gratis/4798
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="SUR | HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANALES AMÉRICA SUR STD",SUR | HBO PLUS
+http://magmas5.com:8000/malotv/gratis/4799
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="SUR | HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | HBO MUNDI
+http://magmas5.com:8000/malotv/gratis/4800
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SUR | SONY" tvg-logo="https://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" group-title="CANALES AMÉRICA SUR STD",SUR | SONY
+http://magmas5.com:8000/malotv/gratis/4801
+#EXTINF:-1 tvg-id="SpaceMexico.mx" tvg-name="SUR | SPACE" tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="CANALES AMÉRICA SUR STD",SUR | SPACE
+http://magmas5.com:8000/malotv/gratis/4802
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | TBS
+http://magmas5.com:8000/malotv/gratis/4803
+#EXTINF:-1 tvg-id="TCMSpain.es" tvg-name="SUR | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | TCM
+http://magmas5.com:8000/malotv/gratis/4804
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="SUR | CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CANALES AMÉRICA SUR STD",SUR | CINECANAL
+http://magmas5.com:8000/malotv/gratis/4805
+#EXTINF:-1 tvg-id="CinemaDinamita.mx" tvg-name="SUR | CINEMA DINAMITA" tvg-logo="https://i.imgur.com/8fdvFWP.png" group-title="CANALES AMÉRICA SUR STD",SUR | CINEMA DINAMITA
+http://magmas5.com:8000/malotv/gratis/4806
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="SUR | CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CANALES AMÉRICA SUR STD",SUR | CINEMAX
+http://magmas5.com:8000/malotv/gratis/4807
+#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-name="SUR | HISTORY CHANNEL" tvg-logo="https://assets.stickpng.com/images/585ac9444f6ae202fedf2947.png" group-title="CANALES AMÉRICA SUR STD",SUR | HISTORY CHANNEL
+http://magmas5.com:8000/malotv/gratis/4808
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="SUR | DISCOVERY HOME AND HEALTH" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY HOME AND HEALTH
+http://magmas5.com:8000/malotv/gratis/4809
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="SUR | CARACOL NACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | CARACOL NACIONAL
+http://magmas5.com:8000/malotv/gratis/4810
+#EXTINF:-1 tvg-id="RCNTV.co" tvg-name="SUR | RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/1200px-RCN_Nuestra_Tele_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | RCN NUESTRA TELE
+http://magmas5.com:8000/malotv/gratis/4811
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="SUR | WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="CANALES AMÉRICA SUR STD",SUR | WIN SPORTS
+http://magmas5.com:8000/malotv/gratis/4812
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="SUR | CANAL CAPITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal_Capital_%28Bogot%C3%A1%29_2016_logo.svg/800px-Canal_Capital_%28Bogot%C3%A1%29_2016_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | CANAL CAPITAL
+http://magmas5.com:8000/malotv/gratis/4813
+#EXTINF:-1 tvg-id="" tvg-name="SUR | FRECUENCIA LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Frecuencia_Latina.svg/1024px-Frecuencia_Latina.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | FRECUENCIA LATINA
+http://magmas5.com:8000/malotv/gratis/4814
+#EXTINF:-1 tvg-id="" tvg-name="SUR | HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | HGTV
+http://magmas5.com:8000/malotv/gratis/4815
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="SUR | CDF BASICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CDF_Logo.svg/1200px-CDF_Logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | CDF BASICO
+http://magmas5.com:8000/malotv/gratis/4816
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="SUR | CDF PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cdf_p.png" group-title="CANALES AMÉRICA SUR STD",SUR | CDF PREMIUM
+http://magmas5.com:8000/malotv/gratis/4817
+#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="SUR | CDO BASICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="CANALES AMÉRICA SUR STD",SUR | CDO BASICO
+http://magmas5.com:8000/malotv/gratis/4818
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-name="SUR | DISCOVERY CHANNEL" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY CHANNEL
+http://magmas5.com:8000/malotv/gratis/4819
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="SUR | DISNEY CHANNEL_" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISNEY CHANNEL_
+http://magmas5.com:8000/malotv/gratis/4820
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="SUR | ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/992px-EcuadorTV_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | ECUADOR TV
+http://magmas5.com:8000/malotv/gratis/4821
+#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="SUR | ETC TV CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/TVChile_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | ETC TV CHILE
+http://magmas5.com:8000/malotv/gratis/4822
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="SUR | EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="CANALES AMÉRICA SUR STD",SUR | EL TRECE
+http://magmas5.com:8000/malotv/gratis/4823
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="SUR | EUROCHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Eurochannel_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | EUROCHANNEL
+http://magmas5.com:8000/malotv/gratis/4824
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="SUR | EUROPA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CANALES AMÉRICA SUR STD",SUR | EUROPA EUROPA
+http://magmas5.com:8000/malotv/gratis/4825
+#EXTINF:-1 tvg-id="" tvg-name="SUR | GLOBOVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="CANALES AMÉRICA SUR STD",SUR | GLOBOVISION
+http://magmas5.com:8000/malotv/gratis/4826
+#EXTINF:-1 tvg-id="GolTV.us" tvg-name="SUR | GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="CANALES AMÉRICA SUR STD",SUR | GOL TV
+http://magmas5.com:8000/malotv/gratis/4827
+#EXTINF:-1 tvg-id="" tvg-name="SUR | GOL TV PERU" tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="CANALES AMÉRICA SUR STD",SUR | GOL TV PERU
+http://magmas5.com:8000/malotv/gratis/4828
+#EXTINF:-1 tvg-id="" tvg-name="SUR | MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | MAX
+http://magmas5.com:8000/malotv/gratis/4829
+#EXTINF:-1 tvg-id="" tvg-name="SUR | MOVISTAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png/640px-Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | MOVISTAR TV
+http://magmas5.com:8000/malotv/gratis/4830
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TLT" tvg-logo="https://logosvector.net/wp-content/uploads/2012/12/tlt-llp-logo-vector.png" group-title="CANALES AMÉRICA SUR STD",SUR | TLT
+http://magmas5.com:8000/malotv/gratis/4831
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="SUR | ORBE 21" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | ORBE 21
+http://magmas5.com:8000/malotv/gratis/4832
+#EXTINF:-1 tvg-id="" tvg-name="01 | ANT TV SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png" group-title="CANALES AMÉRICA SUR HD",01 | ANT TV SUR
+http://magmas5.com:8000/malotv/gratis/4833
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="SUR | AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="CANALES AMÉRICA SUR STD",SUR | AMERICA TV
+http://magmas5.com:8000/malotv/gratis/4834
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CANAL N" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/canal-1-logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | CANAL N
+http://magmas5.com:8000/malotv/gratis/4835
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CMD" tvg-logo="https://2.bp.blogspot.com/-bv4wVCJrQoo/T0K9bXfoacI/AAAAAAAAB0c/HohDzQlvB0c/s1600/cmd_logo1.png" group-title="CANALES AMÉRICA SUR STD",SUR | CMD
+http://magmas5.com:8000/malotv/gratis/4836
+#EXTINF:-1 tvg-id="" tvg-name="SUR | LATINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Latina_%282014-presente%29.png" group-title="CANALES AMÉRICA SUR STD",SUR | LATINA
+http://magmas5.com:8000/malotv/gratis/4837
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="SUR | PANAMERICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="CANALES AMÉRICA SUR STD",SUR | PANAMERICANA
+http://magmas5.com:8000/malotv/gratis/4838
+#EXTINF:-1 tvg-id="" tvg-name="02 | PERU MAGICO SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="CANALES AMÉRICA SUR HD",02 | PERU MAGICO SUR
+http://magmas5.com:8000/malotv/gratis/4839
+#EXTINF:-1 tvg-id="" tvg-name="SUR | Movistar PLUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | Movistar PLUS TV
+http://magmas5.com:8000/malotv/gratis/4840
+#EXTINF:-1 tvg-id="" tvg-name="SUR | GOLPERU" tvg-logo="https://1.bp.blogspot.com/-9xoQUbxyXJM/XRm2Ajw2LiI/AAAAAAAAEao/j818WFdzRI4Hi6XpbHAQn_LKT5Kg6nzygCPcBGAYYCw/s1600/Gol%2BPeru.png" group-title="CANALES AMÉRICA SUR STD",SUR | GOLPERU
+http://magmas5.com:8000/malotv/gratis/4841
+#EXTINF:-1 tvg-id="" tvg-name="SUR | 24 HORAS" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="CANALES AMÉRICA SUR STD",SUR | 24 HORAS
+http://magmas5.com:8000/malotv/gratis/4842
+#EXTINF:-1 tvg-id="" tvg-name="SUR | ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | ATV
+http://magmas5.com:8000/malotv/gratis/4843
+#EXTINF:-1 tvg-id="" tvg-name="SUR | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CANALES AMÉRICA SUR STD",SUR | AXN
+http://magmas5.com:8000/malotv/gratis/4844
+#EXTINF:-1 tvg-id="" tvg-name="SUR | RPP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | RPP
+http://magmas5.com:8000/malotv/gratis/4845
+#EXTINF:-1 tvg-id="" tvg-name="03 | C9N SUR" tvg-logo="https://www.television.com.py/wp-content/uploads/2017/04/C9N-logo1-620x350.png" group-title="CANALES AMÉRICA SUR HD",03 | C9N SUR
+http://magmas5.com:8000/malotv/gratis/4846
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="SUR | CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1280px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | CANAL 13
+http://magmas5.com:8000/malotv/gratis/4847
+#EXTINF:-1 tvg-id="CanalClaro.cl" tvg-name="SUR | CANAL CLARO" tvg-logo="https://deultimahorard.com/wp-content/uploads/2020/04/claro.png" group-title="CANALES AMÉRICA SUR STD",SUR | CANAL CLARO
+http://magmas5.com:8000/malotv/gratis/4848
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="SUR | CAPITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png" group-title="CANALES AMÉRICA SUR STD",SUR | CAPITAL TV
+http://magmas5.com:8000/malotv/gratis/4849
+#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="SUR | CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | CARTOON NETWORK
+http://magmas5.com:8000/malotv/gratis/4850
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="SUR | CDF PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CDF_Logo.svg/1200px-CDF_Logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | CDF PREMIUM
+http://magmas5.com:8000/malotv/gratis/4851
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="SUR | CHV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png" group-title="CANALES AMÉRICA SUR STD",SUR | CHV
+http://magmas5.com:8000/malotv/gratis/4852
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="SUR | CNN Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="CANALES AMÉRICA SUR STD",SUR | CNN Espanol
+http://magmas5.com:8000/malotv/gratis/4853
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="SUR | MEGA" tvg-logo="https://anthoncode.com/wp-content/uploads/2020/07/logo-mega-nz.png" group-title="CANALES AMÉRICA SUR STD",SUR | MEGA
+http://magmas5.com:8000/malotv/gratis/4855
+#EXTINF:-1 tvg-id="" tvg-name="SUR | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | MTV
+http://magmas5.com:8000/malotv/gratis/4856
+#EXTINF:-1 tvg-id="NatGeoKidsPanregional.us" tvg-name="SUR | NAT GEO KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | NAT GEO KIDS
+http://magmas5.com:8000/malotv/gratis/4857
+#EXTINF:-1 tvg-id="NickJrSouth.us" tvg-name="SUR | NICK JR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png" group-title="CANALES AMÉRICA SUR STD",SUR | NICK JR
+http://magmas5.com:8000/malotv/gratis/4858
+#EXTINF:-1 tvg-id="NickelodeonSouth.us" tvg-name="SUR | NICKELODEON" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | NICKELODEON
+http://magmas5.com:8000/malotv/gratis/4859
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="04 | PARAVISION SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="CANALES AMÉRICA SUR HD",04 | PARAVISION SUR
+http://magmas5.com:8000/malotv/gratis/4860
+#EXTINF:-1 tvg-id="" tvg-name="05 | AMERICA NEXT SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/AmericaNext_%28Per%C3%BA%29.png/200px-AmericaNext_%28Per%C3%BA%29.png" group-title="CANALES AMÉRICA SUR HD",05 | AMERICA NEXT SUR
+http://magmas5.com:8000/malotv/gratis/4861
+#EXTINF:-1 tvg-id="" tvg-name="SUR | RED TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Red_TV_Per%C3%BA.png" group-title="CANALES AMÉRICA SUR STD",SUR | RED TELEVISION
+http://magmas5.com:8000/malotv/gratis/4862
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="SUR | TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="CANALES AMÉRICA SUR STD",SUR | TELEPACIFICO
+http://magmas5.com:8000/malotv/gratis/4863
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | TVE
+http://magmas5.com:8000/malotv/gratis/4865
+#EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-name="SUR | ZONA LATINA" tvg-logo="https://media.biobiochile.cl/wp-content/uploads/2016/02/zonalatina.png" group-title="CANALES AMÉRICA SUR STD",SUR | ZONA LATINA
+http://magmas5.com:8000/malotv/gratis/4866
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1280px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | CITY
+http://magmas5.com:8000/malotv/gratis/4867
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TELEVEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="CANALES AMÉRICA SUR STD",SUR | TELEVEN
+http://magmas5.com:8000/malotv/gratis/4868
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TRAVEL AND LIVING CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Discovery_Travel_%26_Living_logo.svg/1280px-Discovery_Travel_%26_Living_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | TRAVEL AND LIVING CHANNEL
+http://magmas5.com:8000/malotv/gratis/4869
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="SUR | LA RED CHILE" tvg-logo="https://static.lared.cl/wp-content/uploads/2018/03/28133431/LOGO-LA-RED-ALPHA.png" group-title="CANALES AMÉRICA SUR STD",SUR | LA RED CHILE
+http://magmas5.com:8000/malotv/gratis/4870
+#EXTINF:-1 tvg-id="VenevisionPlus.ve" tvg-name="06 | VENEVISION PLUS SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Venevision_Plus_Logo_2016.png/1271px-Venevision_Plus_Logo_2016.png" group-title="CANALES AMÉRICA SUR HD",06 | VENEVISION PLUS SUR
+http://magmas5.com:8000/malotv/gratis/4871
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TV SALUD" tvg-logo="https://www.tvsalud.com/inicio/pic/notas-teleconsultorios.jpg" group-title="CANALES AMÉRICA SUR STD",SUR | TV SALUD
+http://magmas5.com:8000/malotv/gratis/4872
+#EXTINF:-1 tvg-id="" tvg-name="07 | VE_MERIDIANO SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png" group-title="CANALES AMÉRICA SUR HD",07 | VE_MERIDIANO SUR
+http://magmas5.com:8000/malotv/gratis/4873
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="SUR | TELESUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | TELESUR
+http://magmas5.com:8000/malotv/gratis/4874
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="SUR | CO_SENAL COLOMBIANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1280px-Se%C3%B1al_Colombia_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | CO_SENAL COLOMBIANA
+http://magmas5.com:8000/malotv/gratis/4875
+#EXTINF:-1 tvg-id="" tvg-name="SUR | ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | ATV
+http://magmas5.com:8000/malotv/gratis/4876
+#EXTINF:-1 tvg-id="VenevisionPlus.ve" tvg-name="SUR | VENEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_de_Venevisi%C3%B3n.svg/854px-Logo_de_Venevisi%C3%B3n.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | VENEVISION
+http://magmas5.com:8000/malotv/gratis/4877
+#EXTINF:-1 tvg-id="" tvg-name="08 | CONCIENCIA SUR" tvg-logo="https://4.bp.blogspot.com/-OweZRswFIVw/VFKlpeZifGI/AAAAAAAACwA/SxLjk9osVlw/s1600/logo%2Bde%2BTV%2BConCiencia%2B2013-actual.png" group-title="CANALES AMÉRICA SUR HD",08 | CONCIENCIA SUR
+http://magmas5.com:8000/malotv/gratis/4878
+#EXTINF:-1 tvg-id="" tvg-name="09 | VALE TV SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="CANALES AMÉRICA SUR HD",09 | VALE TV SUR
+http://magmas5.com:8000/malotv/gratis/4879
+#EXTINF:-1 tvg-id="" tvg-name="SUR | VENEZOLANA DE TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/640px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | VENEZOLANA DE TELEVISION
+http://magmas5.com:8000/malotv/gratis/4880
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TV SALUD" tvg-logo="https://www.tvsalud.com/inicio/pic/notas-teleconsultorios.jpg" group-title="CANALES AMÉRICA SUR STD",SUR | TV SALUD
+http://magmas5.com:8000/malotv/gratis/4881
+#EXTINF:-1 tvg-id="" tvg-name="10 | SNT SUR" tvg-logo="https://appnew.megainfoapp.com/files/1/SNT.png" group-title="CANALES AMÉRICA SUR HD",10 | SNT SUR
+http://magmas5.com:8000/malotv/gratis/4882
+#EXTINF:-1 tvg-id="" tvg-name="11 | LA TELE SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="CANALES AMÉRICA SUR HD",11 | LA TELE SUR
+http://magmas5.com:8000/malotv/gratis/4883
+#EXTINF:-1 tvg-id="" tvg-name="12 | FARRA PLAY HD SUR" tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logog.png" group-title="CANALES AMÉRICA SUR HD",12 | FARRA PLAY HD SUR
+http://magmas5.com:8000/malotv/gratis/4884
+#EXTINF:-1 tvg-id="" tvg-name="13 | RCC TV SUR (PY)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png" group-title="CANALES AMÉRICA SUR HD",13 | RCC TV SUR (PY)
+http://magmas5.com:8000/malotv/gratis/4885
+#EXTINF:-1 tvg-id="" tvg-name="14 | LA TELE SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="CANALES AMÉRICA SUR HD",14 | LA TELE SUR
+http://magmas5.com:8000/malotv/gratis/4887
+#EXTINF:-1 tvg-id="" tvg-name="15 | NOTICIAS PY SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Noticias_PY.png" group-title="CANALES AMÉRICA SUR HD",15 | NOTICIAS PY SUR
+http://magmas5.com:8000/malotv/gratis/4888
+#EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="PARAGUAY | PARAGUAY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Paraguay_TV_logo_2019.png/1200px-Paraguay_TV_logo_2019.png" group-title="PARAGUAY",PARAGUAY | PARAGUAY TV
+http://magmas5.com:8000/malotv/gratis/4889
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="16 | PARAVISION SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Paravision_logo.png" group-title="CANALES AMÉRICA SUR HD",16 | PARAVISION SUR
+http://magmas5.com:8000/malotv/gratis/4890
+#EXTINF:-1 tvg-id="Trece.py" tvg-name="17 | RPC SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" group-title="CANALES AMÉRICA SUR HD",17 | RPC SUR
+http://magmas5.com:8000/malotv/gratis/4891
+#EXTINF:-1 tvg-id="" tvg-name="18 | SNT SUR" tvg-logo="https://appnew.megainfoapp.com/files/1/SNT.png" group-title="CANALES AMÉRICA SUR HD",18 | SNT SUR
+http://magmas5.com:8000/malotv/gratis/4892
+#EXTINF:-1 tvg-id="CanaldelSur.cl" tvg-name="19 | SUR TV SUR" tvg-logo="https://surtv.mx/wp-content/uploads/2018/05/cropped-avatar.png" group-title="CANALES AMÉRICA SUR HD",19 | SUR TV SUR
+http://magmas5.com:8000/malotv/gratis/4893
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="20 | TELEFUTURO SUR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telefuturo-en-vivo-Online.png" group-title="CANALES AMÉRICA SUR HD",20 | TELEFUTURO SUR
+http://magmas5.com:8000/malotv/gratis/4894
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="21 | UNICANAL SUR" tvg-logo="https://esacademic.com/pictures/eswiki/85/Unicanal-logo.png" group-title="CANALES AMÉRICA SUR HD",21 | UNICANAL SUR
+http://magmas5.com:8000/malotv/gratis/4895
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="04 | RCN NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/1280px-RCN_Novelas_logo.svg.png" group-title="NOVELAS",04 | RCN NOVELAS
+http://magmas5.com:8000/malotv/gratis/4896
+#EXTINF:-1 tvg-id="" tvg-name="SUR | TVES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="CANALES AMÉRICA SUR STD",SUR | TVES
+http://magmas5.com:8000/malotv/gratis/4897
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CANAL TRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="CANALES AMÉRICA SUR STD",SUR | CANAL TRO
+http://magmas5.com:8000/malotv/gratis/4898
+#EXTINF:-1 tvg-id="" tvg-name="SUR | MULTICANAL CATAMAYO" tvg-logo="https://image.roku.com/developer_channels/prod/0336443cf45042a14d4c6afd062059843ab7d9deb7c3c0c93f88ceba0e3e33eb.png" group-title="CANALES AMÉRICA SUR STD",SUR | MULTICANAL CATAMAYO
+http://magmas5.com:8000/malotv/gratis/4899
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="22 | TV PERU SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="CANALES AMÉRICA SUR HD",22 | TV PERU SUR
+http://magmas5.com:8000/malotv/gratis/4900
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-name="SUR | UNITEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Unitel_logo_HD.png" group-title="CANALES AMÉRICA SUR STD",SUR | UNITEL
+http://magmas5.com:8000/malotv/gratis/4901
+#EXTINF:-1 tvg-id="Bolivision.bo" tvg-name="SUR | BOLIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="CANALES AMÉRICA SUR STD",SUR | BOLIVISION
+http://magmas5.com:8000/malotv/gratis/4902
+#EXTINF:-1 tvg-id="ATB.bo" tvg-name="SUR | ATB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="CANALES AMÉRICA SUR STD",SUR | ATB
+http://magmas5.com:8000/malotv/gratis/4903
+#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar" tvg-name="SUR | EL TRECE INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | EL TRECE INTERNACIONAL
+http://magmas5.com:8000/malotv/gratis/4904
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="SUR | LA NACION TV" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2020/05/la-nacion-vector-logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | LA NACION TV
+http://magmas5.com:8000/malotv/gratis/4905
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="SUR | A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/A24_logo.svg/800px-A24_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | A24
+http://magmas5.com:8000/malotv/gratis/4906
+#EXTINF:-1 tvg-id="" tvg-name="SUR | 26TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="CANALES AMÉRICA SUR STD",SUR | 26TV
+http://magmas5.com:8000/malotv/gratis/4907
+#EXTINF:-1 tvg-id="" tvg-name="SUR | RTS ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | RTS ECUADOR
+http://magmas5.com:8000/malotv/gratis/4908
+#EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="SUR | UCV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png" group-title="CANALES AMÉRICA SUR STD",SUR | UCV3
+http://magmas5.com:8000/malotv/gratis/4909
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="ARG | ANIMAL PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | ANIMAL PLANET SD
+http://magmas5.com:8000/malotv/gratis/4910
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="ARG | AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | AXN SD
+http://magmas5.com:8000/malotv/gratis/4912
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="ARG | BABY FIRST SD" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | BABY FIRST SD
+http://magmas5.com:8000/malotv/gratis/4914
+#EXTINF:-1 tvg-id="BoomerangMexico.mx" tvg-name="ARG | BOOMERANG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | BOOMERANG SD
+http://magmas5.com:8000/malotv/gratis/4917
+#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="ARG | CARTOON NETWORK SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1594px-Cartoon_Network_2010_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | CARTOON NETWORK SD
+http://magmas5.com:8000/malotv/gratis/4919
+#EXTINF:-1 tvg-id="" tvg-name="ARG | HCDN SD" tvg-logo="" group-title="CANALES PREMIUM ARGENTINA ",ARG | HCDN SD
+http://magmas5.com:8000/malotv/gratis/4920
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="ARG | CINE LATINO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | CINE LATINO SD
+http://magmas5.com:8000/malotv/gratis/4921
+#EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-name="ARG | CNN ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | CNN ESPANOL
+http://magmas5.com:8000/malotv/gratis/4922
+#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="ARG | COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | COMEDY CENTRAL SD
+http://magmas5.com:8000/malotv/gratis/4924
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="ARG | DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DISNEY CHANNEL SD
+http://magmas5.com:8000/malotv/gratis/4933
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-name="ARG | DISNEY XD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DISNEY XD SD
+http://magmas5.com:8000/malotv/gratis/4935
+#EXTINF:-1 tvg-id="EAndes.us" tvg-name="ARG | E! ENTERTAIMENTS SD" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | E! ENTERTAIMENTS SD
+http://magmas5.com:8000/malotv/gratis/4936
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="ARG | ENLACE TV SD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tbnenlace.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | ENLACE TV SD
+http://magmas5.com:8000/malotv/gratis/4937
+#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="ARG | ESPN SD" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | ESPN SD
+http://magmas5.com:8000/malotv/gratis/4938
+#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="ARG | ESPN 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | ESPN 3 SD
+http://magmas5.com:8000/malotv/gratis/4940
+#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-name="ARG | ESPN EXTRA SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | ESPN EXTRA SUR
+http://magmas5.com:8000/malotv/gratis/4941
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="01 | CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA  ",01 | CANAL UNO
+http://magmas5.com:8000/malotv/gratis/3570
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="02 | CARACOL " tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="COLOMBIA  ",02 | CARACOL 
+http://magmas5.com:8000/malotv/gratis/3571
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="03 | CARACOL HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="COLOMBIA  ",03 | CARACOL HD
+http://magmas5.com:8000/malotv/gratis/3572
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="04 |  CARACOL INTERNACIONAL" tvg-logo="https://es.wikipedia.org/wiki/Caracol_Internacional#/media/Archivo:Caracol_HD_Internacional.png" group-title="COLOMBIA  ",04 |  CARACOL INTERNACIONAL
+http://magmas5.com:8000/malotv/gratis/3573
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="05 | CARACOL NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA  ",05 | CARACOL NOTICIAS HD
+http://magmas5.com:8000/malotv/gratis/3574
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="06 | RCN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA  ",06 | RCN FHD
+http://magmas5.com:8000/malotv/gratis/3575
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="07 | RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA  ",07 | RCN HD
+http://magmas5.com:8000/malotv/gratis/3576
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="08 | RCN NOVELAS" tvg-logo="https://es.wikipedia.org/wiki/RCN_Novelas#/media/Archivo:RCN_Novelas_logo.svg" group-title="COLOMBIA  ",08 | RCN NOVELAS
+http://magmas5.com:8000/malotv/gratis/3577
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="09 | TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="COLOMBIA  ",09 | TELEANTIOQUIA
+http://magmas5.com:8000/malotv/gratis/3578
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-name="11 | TELECAFE HD" tvg-logo="https://files.rcnradio.com/public/migration/logo-telecafe-2014.png" group-title="COLOMBIA  ",11 | TELECAFE HD
+http://magmas5.com:8000/malotv/gratis/3580
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="12 | TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA  ",12 | TELECARIBE
+http://magmas5.com:8000/malotv/gratis/3581
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="13 | TELECARIBE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA  ",13 | TELECARIBE HD
+http://magmas5.com:8000/malotv/gratis/3582
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="14 | TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA  ",14 | TELEPACIFICO
+http://magmas5.com:8000/malotv/gratis/3583
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="15 | TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA  ",15 | TELEPACIFICO
+http://magmas5.com:8000/malotv/gratis/3584
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="16 |  TELEMEDELLIN HD" tvg-logo="https://telemedellin.tv/wp-content/uploads/2018/07/logo_telemedellin.png" group-title="COLOMBIA  ",16 |  TELEMEDELLIN HD
+http://magmas5.com:8000/malotv/gratis/3585
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-name="17 | TV AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png" group-title="COLOMBIA  ",17 | TV AGRO
+http://magmas5.com:8000/malotv/gratis/3586
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="18 | CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA  ",18 | CABLE NOTICIAS
+http://magmas5.com:8000/malotv/gratis/3587
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="19 | CABLE NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA  ",19 | CABLE NOTICIAS HD
+http://magmas5.com:8000/malotv/gratis/3588
+#EXTINF:-1 tvg-id="I151.60278.schedulesdirect.org" tvg-name="21 | TELEMEDELLIN" tvg-logo="https://telemedellin.tv/wp-content/uploads/2018/07/logo_telemedellin.png" group-title="COLOMBIA  ",21 | TELEMEDELLIN
+http://magmas5.com:8000/malotv/gratis/3590
+#EXTINF:-1 tvg-id="" tvg-name="21 | EXITOSA NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="PERU",21 | EXITOSA NOTICIAS
+http://magmas5.com:8000/malotv/gratis/126668
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons" tvg-logo="https://designlogovector.com/wp-content/uploads/2020/04/The-Simpsons-designlogovectorcom.png" group-title="CANALES 24/7",24/7 | Los Simpsons
+http://magmas5.com:8000/malotv/gratis/129313
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dinosaurios" tvg-logo="https://freepngimg.com/download/jurassic_park/35156-2-jurassic-park-file.png" group-title="CANALES 24/7",24/7 | Dinosaurios
+http://magmas5.com:8000/malotv/gratis/129314
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO DEL 8*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png" group-title="CANALES 24/7",24/7 | EL CHAVO DEL 8*
+http://magmas5.com:8000/malotv/gratis/129315
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El príncipe de Bel-Air" tvg-logo="https://www.kindpng.com/picc/m/245-2455965_fresh-prince-of-bel-air-itunes-hd-png.png" group-title="CANALES 24/7",24/7 | El príncipe de Bel-Air
+http://magmas5.com:8000/malotv/gratis/129317
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="https://fanart.tv/fanart/tv/75897/clearart/SouthPark-75897-2.png" group-title="CANALES 24/7",24/7 | South Park
+http://magmas5.com:8000/malotv/gratis/129318
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Súper Campeones" tvg-logo="https://img.peru21.pe/files/ec_article_multimedia_gallery/uploads/2019/02/27/5c77416c6e865.png" group-title="CANALES 24/7",24/7 | Súper Campeones
+http://magmas5.com:8000/malotv/gratis/129319
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="https://k60.kn3.net/taringa/4/E/C/A/6/9/JonBizar/B1C.png" group-title="CANALES 24/7",24/7 | Cantinflas
+http://magmas5.com:8000/malotv/gratis/129320
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ALF" tvg-logo="https://fanart.tv/fanart/tv/78020/hdclearart/alf-5835b6ec28f6e.png" group-title="CANALES 24/7",24/7 | ALF
+http://magmas5.com:8000/malotv/gratis/129321
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="CANALES 24/7",24/7 | Chespirito SD
+http://magmas5.com:8000/malotv/gratis/129322
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO SHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="CANALES 24/7",24/7 | EL CHAPULÍN COLORADO SHOW
+http://magmas5.com:8000/malotv/gratis/129323
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokémon" tvg-logo="https://www.kindpng.com/picc/m/2-24125_pokemon-logo-transparent-hd-png-download.png" group-title="CANALES 24/7",24/7 | Pokémon
+http://magmas5.com:8000/malotv/gratis/129325
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Super" tvg-logo="https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png" group-title="CANALES 24/7",24/7 | Dragon Ball Super
+http://magmas5.com:8000/malotv/gratis/129326
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Tom and Jerry" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Tom_and_Jerry_2021.jpg" group-title="CANALES 24/7",24/7 | Tom and Jerry
+http://magmas5.com:8000/malotv/gratis/129327
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="CANALES 24/7",Dragon Ball
+http://magmas5.com:8000/malotv/gratis/129328
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="CANALES 24/7",Dragon Ball Z
+http://magmas5.com:8000/malotv/gratis/129329
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Game of Thrones HD" tvg-logo="https://www.pixelatedarcade.com/pictures/logos/2326/Game-of-Thrones-Pinball-Logo.png" group-title="CANALES 24/7",24/7 | Game of Thrones HD
+http://magmas5.com:8000/malotv/gratis/129330
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Fox Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="CANALES 24/7",24/7 | Fox Family
+http://magmas5.com:8000/malotv/gratis/129331
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Esponja" tvg-logo="https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png" group-title="CANALES 24/7",24/7 | Bob Esponja
+http://magmas5.com:8000/malotv/gratis/129332
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Coraje El Perro Cobarde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Courage_the_Cowardly_Dog_logo.svg/1200px-Courage_the_Cowardly_Dog_logo.svg.png" group-title="CANALES 24/7",24/7 | Coraje El Perro Cobarde
+http://magmas5.com:8000/malotv/gratis/129333
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DRAGON BALL GT" tvg-logo="http://img10.deviantart.net/8ab3/i/2016/143/d/5/poster_dragon_ball_z_27_aniversario_by_facudibuja-da3jjej.png" group-title="CANALES 24/7",24/7 | DRAGON BALL GT
+http://magmas5.com:8000/malotv/gratis/129334
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Doraemon" tvg-logo="https://1.bp.blogspot.com/-jXi65ZWe8Js/WiKYiTx3p9I/AAAAAAAACJs/r6knkbd3DE0I4iaO_GLgYuTEkiDky9hhwCLcBGAs/s1600/Doraemon%2B57.png" group-title="CANALES 24/7",24/7 | Doraemon
+http://magmas5.com:8000/malotv/gratis/129335
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="https://i.pinimg.com/originals/bd/7d/a6/bd7da6091c964a341bbb390f9887cd58.jpg" group-title="CANALES 24/7",24/7 | El Pajaro Loco
+http://magmas5.com:8000/malotv/gratis/129336
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Hey Arnold!" tvg-logo="https://fanart.tv/fanart/tv/72005/clearlogo/HeyArnold-72005.png" group-title="CANALES 24/7",24/7 | Hey Arnold!
+http://magmas5.com:8000/malotv/gratis/129337
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Looney Tunes" tvg-logo="https://www.logolynx.com/images/logolynx/01/010976d5595e2ee999cfa3cc99b0bd55.png" group-title="CANALES 24/7",24/7 | Looney Tunes
+http://magmas5.com:8000/malotv/gratis/129338
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/9/90/Naruto_Logo_Deutsch.svg/1200px-Naruto_Logo_Deutsch.svg.png" group-title="CANALES 24/7",24/7 | Naruto
+http://magmas5.com:8000/malotv/gratis/129339
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Death Note" tvg-logo="https://fanart.tv/fanart/tv/79481/clearlogo/death-note-4e6f9d15b1d6f.png" group-title="CANALES 24/7",24/7 | Death Note
+http://magmas5.com:8000/malotv/gratis/129340
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bleach" tvg-logo="https://fanart.tv/fanart/tv/79481/clearlogo/death-note-4e6f9d15b1d6f.png" group-title="CANALES 24/7",24/7 | Bleach
+http://magmas5.com:8000/malotv/gratis/129341
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | One Punch Man" tvg-logo="https://www.pinclipart.com/picdir/big/79-793431_one-punch-man-clipart-deadpool-blusa-one-punch.png" group-title="CANALES 24/7",24/7 | One Punch Man
+http://magmas5.com:8000/malotv/gratis/129342
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: EL SHOW DE LA PEQUEÑA LU LU" tvg-logo="https://toppng.com/uploads/preview/menu-la-pequena-lulu-best-of-little-lulu-green-girl-dvd-11563041620ojnafjq5ia.png" group-title="CANALES 24/7",Cinema: EL SHOW DE LA PEQUEÑA LU LU
+http://magmas5.com:8000/malotv/gratis/129343
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Samurái X" tvg-logo="https://cdn.dribbble.com/users/1563118/screenshots/4211480/samurai-mascot-logo_1x.png" group-title="CANALES 24/7",24/7 | Samurái X
+http://magmas5.com:8000/malotv/gratis/129344
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Yu-Gi-Oh!" tvg-logo="https://www.pngkit.com/png/full/71-713310_yugioh-logo-yu-gi-oh-png.png" group-title="CANALES 24/7",24/7 | Yu-Gi-Oh!
+http://magmas5.com:8000/malotv/gratis/129346
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="https://formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png" group-title="CANALES 24/7",24/7 | La Pantera Rosa
+http://magmas5.com:8000/malotv/gratis/129347
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/640px-The_Flintstones_logo.svg.png" group-title="CANALES 24/7",24/7 | Los Picapiedra
+http://magmas5.com:8000/malotv/gratis/129349
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La casa de papel" tvg-logo="https://logospng.org/download/la-casa-de-papel/logo-la-casa-de-papel-2048.png" group-title="CANALES 24/7",24/7 | La casa de papel
+http://magmas5.com:8000/malotv/gratis/129350
+#EXTINF:-1 tvg-id="" tvg-name="El Encantador de Perros HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="CANALES 24/7",El Encantador de Perros HD
+http://magmas5.com:8000/malotv/gratis/129351
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/2000px-TBBT_logo.svg.png" group-title="CANALES 24/7",24/7 | The Big Bang Theory
+http://magmas5.com:8000/malotv/gratis/129352
+#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="https://image.tmdb.org/t/p/w185/7kN4ye3NHWO27J2WnepYZ9Jpt8R.jpg" group-title="CANALES 24/7",Smallville
+http://magmas5.com:8000/malotv/gratis/129353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | ANIMANIACS" tvg-logo="https://image.tmdb.org/t/p/w185/bYCnPVwFbpjjZC5daEuQh2NcGJz.jpg" group-title="CANALES 24/7",24/7 | ANIMANIACS
+http://magmas5.com:8000/malotv/gratis/129354
+#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="https://image.tmdb.org/t/p/w185/eLew1HttT40izNwLfdhEyx6zFBd.jpg" group-title="CANALES 24/7",Pinky y Cerebro
+http://magmas5.com:8000/malotv/gratis/129355
+#EXTINF:-1 tvg-id="" tvg-name="BARBAPAPA 24/7" tvg-logo="https://beachpackagingdesign.com/wp-content/uploads/2012/12/BARBAPP0-trademarks.jpg" group-title="CANALES 24/7",BARBAPAPA 24/7
+http://magmas5.com:8000/malotv/gratis/129357
+#EXTINF:-1 tvg-id="" tvg-name="Cuidado con el Ángel UHD 24/7" tvg-logo="https://image.tmdb.org/t/p/w185/vxuoMW6YBt6UsxvMfRNwRl9LtWS.jpg" group-title="CANALES 24/7",Cuidado con el Ángel UHD 24/7
+http://magmas5.com:8000/malotv/gratis/129360
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: EL ESPECTACULAR HOMBRE ARAÑA" tvg-logo="https://repelis.live/wp-content/uploads/2018/02/el-conjuro-1-poster.jpeg" group-title="CANALES 24/7",Cinema: EL ESPECTACULAR HOMBRE ARAÑA
+http://magmas5.com:8000/malotv/gratis/129362
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: EL CONDE PATULA" tvg-logo="https://img2.freepng.es/20180616/vpu/kisspng-count-duckula-2-igor-count-orlok-animated-series-daryl-5b25593bda4006.573634941529174331894.jpg" group-title="CANALES 24/7",Cinema: EL CONDE PATULA
+http://magmas5.com:8000/malotv/gratis/129363
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://image.tmdb.org/t/p/w185/ic9Gb4Zz09ns3JPYHdax8u5kt0n.jpg" group-title="CANALES 24/7",Naruto Shippuden
+http://magmas5.com:8000/malotv/gratis/129364
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: CINE SUREÑO UHD" tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="CANALES 24/7",Cinema: CINE SUREÑO UHD
+http://magmas5.com:8000/malotv/gratis/129365
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Marvel" tvg-logo="https://app.mxl-iptv.tv/logos_tv/saga_marvel.jpg" group-title="CANALES 24/7",Peliculas Marvel
+http://magmas5.com:8000/malotv/gratis/129366
+#EXTINF:-1 tvg-id="" tvg-name="Cinema: FENOMENOIDE " tvg-logo="https://www.kindpng.com/picc/m/106-1064477_freakazoid-png-pic-fenomenoide-png-transparent-png.png" group-title="CANALES 24/7",Cinema: FENOMENOIDE 
+http://magmas5.com:8000/malotv/gratis/129367
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Temes a la Oscuridad ?" tvg-logo="https://i.pinimg.com/originals/81/1c/96/811c962100bce08f35cb8901f0bf0677.jpg" group-title="CANALES 24/7",24/7 | Temes a la Oscuridad ?
+http://magmas5.com:8000/malotv/gratis/129368
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="https://2.bp.blogspot.com/-VeRuF5a8cLY/W8DjlQ8m0uI/AAAAAAAAJDY/Z7x3yjEzfv8RqCdAkc3P6lz8ClJ-GFeCwCLcBGAs/s1600/600x600---DRAMA.jpg" group-title="CANALES 24/7",Movistar Drama
+http://magmas5.com:8000/malotv/gratis/129369
+#EXTINF:-1 tvg-id="AEEast.us" tvg-name="A&E US HD" tvg-logo="https://app.mxl-iptv.tv/logos_tv/4b830b5eecfd1994f39549ba1bac193f.jpg" group-title="USA",A&E US HD
+http://magmas5.com:8000/malotv/gratis/129371
+#EXTINF:-1 tvg-id="" tvg-name="VH1  HITS" tvg-logo="https://app.mxl-iptv.tv/logos_tv/dad8ee483cc9a336cde702e9aa0b0954.jpg" group-title="CANALES 24/7",VH1  HITS
+http://magmas5.com:8000/malotv/gratis/129372
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family" tvg-logo="https://image.tmdb.org/t/p/w185/pu67UYA22j2kSkPth0i1O7pilzc.jpg" group-title="CANALES 24/7",Starz Kids & Family
+http://magmas5.com:8000/malotv/gratis/129373
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Crepusculo" tvg-logo="https://app.mxl-iptv.tv/logos_tv/peliculas_crepusculo.jpg" group-title="CANALES 24/7",Peliculas Crepusculo
+http://magmas5.com:8000/malotv/gratis/129374
+#EXTINF:-1 tvg-id="" tvg-name="24/7 |  X-Men" tvg-logo="https://www.cultture.com/pics/2017/12/elkas16.jpg" group-title="CANALES 24/7",24/7 |  X-Men
+http://magmas5.com:8000/malotv/gratis/129375
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HI-MAN SD " tvg-logo="https://image.tmdb.org/t/p/w185/4RrdeC1L8Nvs2X7KsnKGbosIItV.jpg" group-title="CANALES 24/7",24/7 HI-MAN SD 
+http://magmas5.com:8000/malotv/gratis/129376
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Harry Potter" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71fkSicblAL._SY445_.jpg" group-title="CANALES 24/7",Peliculas Harry Potter
+http://magmas5.com:8000/malotv/gratis/129377
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas John Wick" tvg-logo="https://batsenales.files.wordpress.com/2019/05/batsejohnwick.png?w=351&h=640" group-title="CANALES 24/7",Peliculas John Wick
+http://magmas5.com:8000/malotv/gratis/129378
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Resident Evil" tvg-logo="https://n3.sdlcdn.com/imgs/h/5/6/Resident-Evil-All-6-Parts-SDL071003500-1-7bf66.jpeg" group-title="CANALES 24/7",Peliculas Resident Evil
+http://magmas5.com:8000/malotv/gratis/129379
+#EXTINF:-1 tvg-id="" tvg-name="Películas EXTRATERRESTRES Sci-Fi" tvg-logo="https://image.tmdb.org/t/p/w185/zHy065u9JCDHA9IJ93MK7isSSMw.jpg" group-title="CANALES 24/7",Películas EXTRATERRESTRES Sci-Fi
+http://magmas5.com:8000/malotv/gratis/129380
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Matrix" tvg-logo="https://www.impactohd.cl/32766/4k-uhd-matrix-la-trilogia.jpg" group-title="CANALES 24/7",Peliculas Matrix
+http://magmas5.com:8000/malotv/gratis/129381
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="07 | RCN NOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="NOVELAS",07 | RCN NOVELAS HD
+http://magmas5.com:8000/malotv/gratis/129383
+#EXTINF:-1 tvg-id="" tvg-name="Amores Verdaderos 24/7" tvg-logo="https://image.tmdb.org/t/p/w185/aBZynbuxspjz01mxrWpP5ZyDIyq.jpg" group-title="CANALES 24/7",Amores Verdaderos 24/7
+http://magmas5.com:8000/malotv/gratis/129384
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Astro Boy" tvg-logo="https://image.tmdb.org/t/p/w185/8UsTkq6xgvrlTtYhSpzvfpCpe7O.jpg?pfdrid_c=true" group-title="CANALES 24/7",24/7 | Astro Boy
+http://magmas5.com:8000/malotv/gratis/129385
+#EXTINF:-1 tvg-id="" tvg-name="X-Men" tvg-logo="https://image.tmdb.org/t/p/w185/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg" group-title="CANALES 24/7",X-Men
+http://magmas5.com:8000/malotv/gratis/129386
+#EXTINF:-1 tvg-id="" tvg-name="Mazinger Z" tvg-logo="https://image.tmdb.org/t/p/w185/q00u32mfU2PbTgyjZJKuPmXx1hC.jpg" group-title="CANALES 24/7",Mazinger Z
+http://magmas5.com:8000/malotv/gratis/129387
+#EXTINF:-1 tvg-id="ExtraTV42.cr" tvg-name="04 | CANAL EXTRA CR HD" tvg-logo="https://img2.freepng.es/20180618/gja/kisspng-costa-rica-extra-tv-42-television-channel-streamin-5b27f4ae7ff047.233950511529345198524.jpg" group-title="COSTA RICA",04 | CANAL EXTRA CR HD
+http://magmas5.com:8000/malotv/gratis/130053
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAVO ANIMADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1200px-El_Chavo_Animado_logo.svg.png" group-title="CANALES 24/7",24/7 | EL CHAVO ANIMADO
+http://magmas5.com:8000/malotv/gratis/131452
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELÍCULAS DE ROMANCE 2" tvg-logo="" group-title="CANALES 24/7",24/7 PELÍCULAS DE ROMANCE 2
+http://magmas5.com:8000/malotv/gratis/131454
+#EXTINF:-1 tvg-id="" tvg-name="|| Honduras ||" tvg-logo="" group-title="HONDURAS",|| Honduras ||
+http://magmas5.com:8000/malotv/gratis/131621
+#EXTINF:-1 tvg-id="" tvg-name="14| KERUSSO TV HD" tvg-logo="" group-title="HONDURAS",14| KERUSSO TV HD
+http://magmas5.com:8000/malotv/gratis/131622
+#EXTINF:-1 tvg-id="" tvg-name="15|  CANAL 6 HD" tvg-logo="" group-title="HONDURAS",15|  CANAL 6 HD
+http://magmas5.com:8000/malotv/gratis/131623
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="16| AZTECA HD" tvg-logo="" group-title="HONDURAS",16| AZTECA HD
+http://magmas5.com:8000/malotv/gratis/131624
+#EXTINF:-1 tvg-id="" tvg-name="18| CAMPUS TV HD" tvg-logo="" group-title="HONDURAS",18| CAMPUS TV HD
+http://magmas5.com:8000/malotv/gratis/131625
+#EXTINF:-1 tvg-id="" tvg-name="19| TVCopán HD" tvg-logo="" group-title="HONDURAS",19| TVCopán HD
+http://magmas5.com:8000/malotv/gratis/131626
+#EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-name="20| CANAL 5 HD" tvg-logo="" group-title="HONDURAS",20| CANAL 5 HD
+http://magmas5.com:8000/malotv/gratis/131627
+#EXTINF:-1 tvg-id="" tvg-name="21| LENCA TV HD" tvg-logo="" group-title="HONDURAS",21| LENCA TV HD
+http://magmas5.com:8000/malotv/gratis/131628
+#EXTINF:-1 tvg-id="" tvg-name="22| CHOLUTECA TV" tvg-logo="" group-title="HONDURAS",22| CHOLUTECA TV
+http://magmas5.com:8000/malotv/gratis/131629
+#EXTINF:-1 tvg-id="" tvg-name="23| METRO TV HD" tvg-logo="" group-title="HONDURAS",23| METRO TV HD
+http://magmas5.com:8000/malotv/gratis/131630
+#EXTINF:-1 tvg-id="HCH.hn" tvg-name="24| HCH TV" tvg-logo="" group-title="HONDURAS",24| HCH TV
+http://magmas5.com:8000/malotv/gratis/131631
+#EXTINF:-1 tvg-id="" tvg-name="25 | Canal 5" tvg-logo="https://hondu.tv/wp-content/uploads/2016/10/Canal-maya-tv.png" group-title="HONDURAS",25 | Canal 5
+http://magmas5.com:8000/malotv/gratis/131632
+#EXTINF:-1 tvg-id="" tvg-name="26| MEGATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/01_mega_logo.svg/1280px-01_mega_logo.svg.png" group-title="HONDURAS",26| MEGATV
+http://magmas5.com:8000/malotv/gratis/131633
+#EXTINF:-1 tvg-id="" tvg-name="27| SULAVISION" tvg-logo="" group-title="HONDURAS",27| SULAVISION
+http://magmas5.com:8000/malotv/gratis/131634
+#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-name="29 TELECEIBA" tvg-logo="" group-title="HONDURAS",29 TELECEIBA
+http://magmas5.com:8000/malotv/gratis/131635
+#EXTINF:-1 tvg-id="" tvg-name="30| TELEPROGRESO HD" tvg-logo="" group-title="HONDURAS",30| TELEPROGRESO HD
+http://magmas5.com:8000/malotv/gratis/131636
+#EXTINF:-1 tvg-id="Telesistema3y7.hn" tvg-name="31| TELESISTEMA" tvg-logo="" group-title="HONDURAS",31| TELESISTEMA
+http://magmas5.com:8000/malotv/gratis/131637
+#EXTINF:-1 tvg-id="" tvg-name="32| TNH TV" tvg-logo="" group-title="HONDURAS",32| TNH TV
+http://magmas5.com:8000/malotv/gratis/131638
+#EXTINF:-1 tvg-id="" tvg-name="-------PREMIUM LOW---------" tvg-logo="" group-title="LOW CHANNEL",-------PREMIUM LOW---------
+http://magmas5.com:8000/malotv/gratis/3838
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="02 | AXN (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="LOW CHANNEL",02 | AXN (Low)
+http://magmas5.com:8000/malotv/gratis/3840
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="03 | Boomerang (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="LOW CHANNEL",03 | Boomerang (Low)
+http://magmas5.com:8000/malotv/gratis/3841
+#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="04 | Cartoon Network (Low)" tvg-logo="https://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="LOW CHANNEL",04 | Cartoon Network (Low)
+http://magmas5.com:8000/malotv/gratis/3842
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="05 | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="LOW CHANNEL",05 | Cinecanal
+http://magmas5.com:8000/malotv/gratis/3843
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="06 | Cinemax" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cinemax-1-logo-png-transparent.png" group-title="LOW CHANNEL",06 | Cinemax
+http://magmas5.com:8000/malotv/gratis/3844
+#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="07 | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="LOW CHANNEL",07 | Comedy Central
+http://magmas5.com:8000/malotv/gratis/3845
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-name="08 | Discovery Channel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="LOW CHANNEL",08 | Discovery Channel
+http://magmas5.com:8000/malotv/gratis/3846
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="09 | Discovery Home & Healt" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="LOW CHANNEL",09 | Discovery Home & Healt
+http://magmas5.com:8000/malotv/gratis/3847
+#EXTINF:-1 tvg-id="" tvg-name="10 | Discovery Turbo (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="LOW CHANNEL",10 | Discovery Turbo (L)
+http://magmas5.com:8000/malotv/gratis/3848
+#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="11 | Disney Junior (L)" tvg-logo="https://nuvera.net/wp-content/uploads/2018/01/DisneyJR-Logo-Black-300x169.png" group-title="LOW CHANNEL",11 | Disney Junior (L)
+http://magmas5.com:8000/malotv/gratis/3849
+#EXTINF:-1 tvg-id="I292.60006.zap2it.com" tvg-name="12 | Disney XD (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="LOW CHANNEL",12 | Disney XD (L)
+http://magmas5.com:8000/malotv/gratis/3850
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="13 | ESPN (Low)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="LOW CHANNEL",13 | ESPN (Low)
+http://magmas5.com:8000/malotv/gratis/3851
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="14 | ESPN 2 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="LOW CHANNEL",14 | ESPN 2 (Low)
+http://magmas5.com:8000/malotv/gratis/3852
+#EXTINF:-1 tvg-id="ESPN3HDArgentina.ar" tvg-name="15 |  ESPN 3 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LOW CHANNEL",15 |  ESPN 3 (Low)
+http://magmas5.com:8000/malotv/gratis/3853
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="16 | Distrito Comedia (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="LOW CHANNEL",16 | Distrito Comedia (Low)
+http://magmas5.com:8000/malotv/gratis/3854
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="17 |  Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="LOW CHANNEL",17 |  Star Channel (L)
+http://magmas5.com:8000/malotv/gratis/3855
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="18 |  Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="LOW CHANNEL",18 |  Star Channel (L)
+http://magmas5.com:8000/malotv/gratis/3856
+#EXTINF:-1 tvg-id="I212.49263.schedulesdirect.org" tvg-name="19 |  Star Life (L)" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png" group-title="LOW CHANNEL",19 |  Star Life (L)
+http://magmas5.com:8000/malotv/gratis/3857
+#EXTINF:-1 tvg-id="I562.71662.schedulesdirect.org" tvg-name="20 |  Star Cinema (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="LOW CHANNEL",20 |  Star Cinema (L)
+http://magmas5.com:8000/malotv/gratis/3858
+#EXTINF:-1 tvg-id="StarChannelMexico.mx" tvg-name="21 | Star Channel (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="LOW CHANNEL",21 | Star Channel (L)
+http://magmas5.com:8000/malotv/gratis/3859
+#EXTINF:-1 tvg-id="" tvg-name="22 | TNT Series (Low)" tvg-logo="https://w7.pngwing.com/pngs/220/98/png-transparent-logo-much-tnt-series-latin-america-design-television-text-logo-thumbnail.png" group-title="LOW CHANNEL",22 | TNT Series (Low)
+http://magmas5.com:8000/malotv/gratis/3860
+#EXTINF:-1 tvg-id="I219.82547.zap2it.com" tvg-name="23 |  Fox Sports (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="LOW CHANNEL",23 |  Fox Sports (L)
+http://magmas5.com:8000/malotv/gratis/3861
+#EXTINF:-1 tvg-id="FoxSports2HDSouth.us" tvg-name="24 |  Fox Sports 2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LOW CHANNEL",24 |  Fox Sports 2 (L)
+http://magmas5.com:8000/malotv/gratis/3862
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="25 |  Fox Sports 3 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="LOW CHANNEL",25 |  Fox Sports 3 (L)
+http://magmas5.com:8000/malotv/gratis/3863
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-name="26 |  FX (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png" group-title="LOW CHANNEL",26 |  FX (L)
+http://magmas5.com:8000/malotv/gratis/3864
+#EXTINF:-1 tvg-id="History2HDPanregional.us" tvg-name="27 |  H2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LOW CHANNEL",27 |  H2 (L)
+http://magmas5.com:8000/malotv/gratis/3865
+#EXTINF:-1 tvg-id="HBOHDLatinAmerica.us" tvg-name="28 |  HBO (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1200px-HBO_Latino_Logo.svg.png" group-title="LOW CHANNEL",28 |  HBO (L)
+http://magmas5.com:8000/malotv/gratis/3866
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="29 |  HBO 2 (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="LOW CHANNEL",29 |  HBO 2 (L)
+http://magmas5.com:8000/malotv/gratis/3867
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="30 |  HBO Family (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LOW CHANNEL",30 |  HBO Family (L)
+http://magmas5.com:8000/malotv/gratis/3868
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="31 |  Las Estrellas (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="LOW CHANNEL",31 |  Las Estrellas (L)
+http://magmas5.com:8000/malotv/gratis/3869
+#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="32 | TNT SERIES (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="LOW CHANNEL",32 | TNT SERIES (L)
+http://magmas5.com:8000/malotv/gratis/132337
+#EXTINF:-1 tvg-id="ClaroSportsChile.cl" tvg-name="33 | CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="LOW CHANNEL",33 | CLARO SPORTS
+http://magmas5.com:8000/malotv/gratis/132338
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-name="34 | CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="LOW CHANNEL",34 | CINEAR
+http://magmas5.com:8000/malotv/gratis/132574
+#EXTINF:-1 tvg-id="" tvg-name="17 | TVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/TVC_logo.png" group-title="ECUADOR ",17 | TVC
+http://magmas5.com:8000/malotv/gratis/133667
+#EXTINF:-1 tvg-id="" tvg-name="18 | RTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR ",18 | RTS SD
+http://magmas5.com:8000/malotv/gratis/134867
+#EXTINF:-1 tvg-id="" tvg-name="23 | CANAL 2 CALI" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="COLOMBIA  ",23 | CANAL 2 CALI
+http://magmas5.com:8000/malotv/gratis/135035
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="24 | CANAL CAPITAL" tvg-logo="https://conexioncapital.co/wp-content/uploads/2020/03/logo-canal-2020e.png" group-title="COLOMBIA  ",24 | CANAL CAPITAL
+http://magmas5.com:8000/malotv/gratis/135036
+#EXTINF:-1 tvg-id="" tvg-name="25 | CANAL TDI COLOMBIA HD" tvg-logo="https://tdicolombia.com.co/wp-content/uploads/2021/11/TDI.gif" group-title="COLOMBIA  ",25 | CANAL TDI COLOMBIA HD
+http://magmas5.com:8000/malotv/gratis/135037
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="28 | CANAL MUNDO MAS" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="COLOMBIA  ",28 | CANAL MUNDO MAS
+http://magmas5.com:8000/malotv/gratis/135040
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="29 | CANAL Tele San Jacinto (HD)" tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COLOMBIA  ",29 | CANAL Tele San Jacinto (HD)
+http://magmas5.com:8000/malotv/gratis/135041
+#EXTINF:-1 tvg-id="" tvg-name="30 | CANAL 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="COLOMBIA  ",30 | CANAL 2 UHD
+http://magmas5.com:8000/malotv/gratis/135042
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="31 | AVIVAMIENTO ABN FHD" tvg-logo="https://media.info/i/tb/1456/1544726087/1373255396.jpg" group-title="COLOMBIA  ",31 | AVIVAMIENTO ABN FHD
+http://magmas5.com:8000/malotv/gratis/135043
+#EXTINF:-1 tvg-id="" tvg-name="25 | CANAL 15 UCR FHD" tvg-logo="https://www.pngkit.com/png/full/150-1508834_logo-con-sombra-logo-de-canal-ucr.png" group-title="COSTA RICA",25 | CANAL 15 UCR FHD
+http://magmas5.com:8000/malotv/gratis/135044
+#EXTINF:-1 tvg-id="" tvg-name="26 | CANAL EXTREMA TV" tvg-logo="http://radioextremacr.com/img/logo.png" group-title="COSTA RICA",26 | CANAL EXTREMA TV
+http://magmas5.com:8000/malotv/gratis/135045
+#EXTINF:-1 tvg-id="" tvg-name="27 | Multimedios Canal 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" group-title="COSTA RICA",27 | Multimedios Canal 8 HD
+http://magmas5.com:8000/malotv/gratis/135046
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="28 | TELESUR CR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="COSTA RICA",28 | TELESUR CR HD
+http://magmas5.com:8000/malotv/gratis/135047
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="14 |CHILEVISION HD" tvg-logo="https://cdn.elobservatodo.cl/sites/elobservatodo.cl/files/imagecache/380x285/imagen_noticia/canales.png" group-title="CHILE",14 |CHILEVISION HD
+http://magmas5.com:8000/malotv/gratis/135058
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="ARG | DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DIRECTV SPORTS
+http://magmas5.com:8000/malotv/gratis/135642
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="ARG | DIRCTV SPORTS 2" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DIRCTV SPORTS 2
+http://magmas5.com:8000/malotv/gratis/135643
+#EXTINF:-1 tvg-id="DirecTVSportsPlusHD.us" tvg-name="ARG | DIRECTV SPORTS +" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DIRECTV SPORTS +
+http://magmas5.com:8000/malotv/gratis/135644
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-name="ARG | FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX SPORTS
+http://magmas5.com:8000/malotv/gratis/135645
+#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX SPORTS 2
+http://magmas5.com:8000/malotv/gratis/135646
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX SPORTS 3
+http://magmas5.com:8000/malotv/gratis/135647
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="SUR | CNN CHILE" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online-1.png" group-title="CANALES AMÉRICA SUR STD",SUR | CNN CHILE
+http://magmas5.com:8000/malotv/gratis/135651
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="SUR | NTN 24" tvg-logo="https://uscpr.org/wp-content/uploads/2019/08/bbc-world-news-logo-png-6.png" group-title="CANALES AMÉRICA SUR STD",SUR | NTN 24
+http://magmas5.com:8000/malotv/gratis/135652
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="ARG | FOX NEWS " tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/fox-news-logo-black-and-white.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FOX NEWS 
+http://magmas5.com:8000/malotv/gratis/135654
+#EXTINF:-1 tvg-id="BBCWorldNewsNorthAmerica.uk" tvg-name="SUR | BBC WORLD NEWS" tvg-logo="https://uscpr.org/wp-content/uploads/2019/08/bbc-world-news-logo-png-6.png" group-title="CANALES AMÉRICA SUR STD",SUR | BBC WORLD NEWS
+http://magmas5.com:8000/malotv/gratis/135655
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="SUR | CNN INTERNACIONAL" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="CANALES AMÉRICA SUR STD",SUR | CNN INTERNACIONAL
+http://magmas5.com:8000/malotv/gratis/135657
+#EXTINF:-1 tvg-id="" tvg-name="SUR | FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | FOOD NETWORK
+http://magmas5.com:8000/malotv/gratis/135658
+#EXTINF:-1 tvg-id="StudioUniversalSouth.us" tvg-name="ARG | STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | STUDIO UNIVERSAL
+http://magmas5.com:8000/malotv/gratis/135659
+#EXTINF:-1 tvg-id="WOBI.ar" tvg-name="SUR | WOBI " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | WOBI 
+http://magmas5.com:8000/malotv/gratis/135660
+#EXTINF:-1 tvg-id="" tvg-name="SUR | DISCOVERY CIVILITATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY CIVILITATION
+http://magmas5.com:8000/malotv/gratis/135661
+#EXTINF:-1 tvg-id="ISatSouth.us" tvg-name="ARG | I-SAT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | I-SAT 
+http://magmas5.com:8000/malotv/gratis/135662
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="ARG | UNIVERSAL CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | UNIVERSAL CHANNEL SD
+http://magmas5.com:8000/malotv/gratis/135663
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.es" tvg-name="SUR | HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="CANALES AMÉRICA SUR STD",SUR | HOLA TV
+http://magmas5.com:8000/malotv/gratis/135665
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="ARG | WARNER SD" tvg-logo="https://image.flaticon.com/icons/png/512/870/870980.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | WARNER SD
+http://magmas5.com:8000/malotv/gratis/135664
+#EXTINF:-1 tvg-id="" tvg-name="SUR | DISCOVERY WORLD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY WORLD SD
+http://magmas5.com:8000/malotv/gratis/135666
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="SUR | DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISCOVERY SCIENCE
+http://magmas5.com:8000/malotv/gratis/135667
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="SUR | HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CANALES AMÉRICA SUR STD",SUR | HISTORY 2
+http://magmas5.com:8000/malotv/gratis/135668
+#EXTINF:-1 tvg-id="" tvg-name="SUR | HLN" tvg-logo="http://assets.stickpng.com/images/5848270acef1014c0b5e49df.png" group-title="CANALES AMÉRICA SUR STD",SUR | HLN
+http://magmas5.com:8000/malotv/gratis/135669
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="ARG | PARAMOUNT NETWORK" tvg-logo="http://assets.stickpng.com/images/58483b6584e35b574e745380.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | PARAMOUNT NETWORK
+http://magmas5.com:8000/malotv/gratis/135670
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.us" tvg-name=" SUR | DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANALES AMÉRICA SUR STD", SUR | DISCOVERY H&H
+http://magmas5.com:8000/malotv/gratis/135671
+#EXTINF:-1 tvg-id="NationalGeographicWildPanregional.us" tvg-name="SUR | NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | NAT GEO WILD
+http://magmas5.com:8000/malotv/gratis/135672
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="SUR | ID INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANALES AMÉRICA SUR STD",SUR | ID INVESTIGATION DISCOVERY
+http://magmas5.com:8000/malotv/gratis/135673
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="ARG | HBO MUNDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | HBO MUNDI SD
+http://magmas5.com:8000/malotv/gratis/135674
+#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-name="SUR | NATIONAL GEOGRAPHIC" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="CANALES AMÉRICA SUR STD",SUR | NATIONAL GEOGRAPHIC
+http://magmas5.com:8000/malotv/gratis/135675
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="SUR | EL GOURMET" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="CANALES AMÉRICA SUR STD",SUR | EL GOURMET
+http://magmas5.com:8000/malotv/gratis/135676
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="ARG | HBO XTREME SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | HBO XTREME SD
+http://magmas5.com:8000/malotv/gratis/135677
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="ARG | DISCOVERY THEATER SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/800px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DISCOVERY THEATER SD
+http://magmas5.com:8000/malotv/gratis/135678
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="ARG | EUROPA EUROPA SD" tvg-logo="http://4.bp.blogspot.com/-N2JWj9sGY3g/VM0ud4XFH6I/AAAAAAAAACI/d_CFWzH9pVQ/s1600/europaeuropa.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | EUROPA EUROPA SD
+http://magmas5.com:8000/malotv/gratis/135679
+#EXTINF:-1 tvg-id="DisneyJuniorWest.us" tvg-name="SUR | DISNEY JR." tvg-logo="https://i1.wp.com/kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="CANALES AMÉRICA SUR STD",SUR | DISNEY JR.
+http://magmas5.com:8000/malotv/gratis/135709
+#EXTINF:-1 tvg-id="AESouth.us" tvg-name="ARG | A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | A&E
+http://magmas5.com:8000/malotv/gratis/135653
+#EXTINF:-1 tvg-id="FilmArtsPanregional.us" tvg-name="ARG | FILM&ARTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | FILM&ARTS SD
+http://magmas5.com:8000/malotv/gratis/135781
+#EXTINF:-1 tvg-id="ClaroCinema.mx" tvg-name="ARG | CLARO CINEMA" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2SzoSJd5lT0ZmR0PxMxktc/cc2214cecf0cc9d307d6b7ef54a46b98/41_ClaroCinema.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | CLARO CINEMA
+http://magmas5.com:8000/malotv/gratis/135782
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-name="ARG | TNT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | TNT SD
+http://magmas5.com:8000/malotv/gratis/135783
+#EXTINF:-1 tvg-id="ESPN2HDArgentina.ar" tvg-name="ARG | ESPN 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | ESPN 2 SD
+http://magmas5.com:8000/malotv/gratis/135784
+#EXTINF:-1 tvg-id="CDMInternacional.pr" tvg-name="Puerto Rico|| CDM Internacional" tvg-logo="https://4.bp.blogspot.com/-D--Pt2otOhA/WoHsvQlirsI/AAAAAAAAcGQ/J7Oa7fInBOAzpJ3FS77Y0JMRwrsWTyTXQCLcBGAs/s1600/CDMinternacional.png" group-title="PUERTO RICO",Puerto Rico|| CDM Internacional
+http://magmas5.com:8000/malotv/gratis/135789
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="ARG | INVESTIGATION DISCOVERY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | INVESTIGATION DISCOVERY SD
+http://magmas5.com:8000/malotv/gratis/135790
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="ARG | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | Discovery Science
+http://magmas5.com:8000/malotv/gratis/135791
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="ARG | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | History 2
+http://magmas5.com:8000/malotv/gratis/135792
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="ARG | Discovery Home & Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | Discovery Home & Health
+http://magmas5.com:8000/malotv/gratis/135793
+#EXTINF:-1 tvg-id="DiscoveryWorldHDPanregional.us" tvg-name="ARG | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | Discovery World
+http://magmas5.com:8000/malotv/gratis/135794
+#EXTINF:-1 tvg-id="HGTVPanregional.us" tvg-name="ARG | DISCOVERY CIVILIZATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | DISCOVERY CIVILIZATION
+http://magmas5.com:8000/malotv/gratis/135821
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="ARG | CNN ESPAÑOL" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | CNN ESPAÑOL
+http://magmas5.com:8000/malotv/gratis/135867
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="ARG | EL GOURMET" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | EL GOURMET
+http://magmas5.com:8000/malotv/gratis/135878
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="26 | EL GOURMET SUR" tvg-logo="https://i.imgur.com/68ztlZE.png" group-title="CANALES AMÉRICA SUR HD",26 | EL GOURMET SUR
+http://magmas5.com:8000/malotv/gratis/135879
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="27 | TV5 MONDE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="CANALES AMÉRICA SUR HD",27 | TV5 MONDE HD
+http://magmas5.com:8000/malotv/gratis/135880
+#EXTINF:-1 tvg-id="" tvg-name="ARG | TV5 MONDE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" group-title="CANALES PREMIUM ARGENTINA ",ARG | TV5 MONDE SD
+http://magmas5.com:8000/malotv/gratis/135881
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS SIMPSONS HD" tvg-logo="http://assets.stickpng.com/images/5eb95b4d17f3c600044a2904.png" group-title="CANALES 24/7",24/7 | LOS SIMPSONS HD
+http://magmas5.com:8000/malotv/gratis/136246
+#EXTINF:-1 tvg-id="" tvg-name="27 | CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1024px-Claro_Sports_logo.svg.png" group-title="DEPORTES SD",27 | CLARO SPORTS
+http://magmas5.com:8000/malotv/gratis/136449
+#EXTINF:-1 tvg-id="" tvg-name="28 | Ticavision Canal 52 HD" tvg-logo="https://forounivers.com/uploads/monthly_2018_11/large.logo_ticavision.png.9acd16e9068c43e42fafe94726d01da4.png" group-title="COSTA RICA",28 | Ticavision Canal 52 HD
+http://magmas5.com:8000/malotv/gratis/137079
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Death in the Family (2020)" tvg-logo="http://magmas5.com:8000/images/d2d1c2438bbb6f3687332031d3254a60.jpg" group-title="ENGLISH MOVIES",Batman: Death in the Family (2020)
+http://magmas5.com:8000/movie/malotv/gratis/137317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chaos Walking (2021)" tvg-logo="http://magmas5.com:8000/images/4d66fa9e5efa534ac9af56ed0a19bb7d.jpg" group-title="ENGLISH MOVIES",Chaos Walking (2021)
+http://magmas5.com:8000/movie/malotv/gratis/137318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosmic Sin (2021)" tvg-logo="http://magmas5.com:8000/images/13b2bb4ed683bab2f94475752a9afb5f.jpg" group-title="ENGLISH MOVIES",Cosmic Sin (2021)
+http://magmas5.com:8000/movie/malotv/gratis/137319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Generación Y (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPfCHs77qlsCTvrILolIbh94tv5.jpg" group-title="ENGLISH MOVIES",Generación Y (2020)
+http://magmas5.com:8000/movie/malotv/gratis/137320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Framing Britney Spears (2021)" tvg-logo="http://magmas5.com:8000/images/5771c72e4ba3bcb9076c9ce110b21cbc.jpg" group-title="ENGLISH MOVIES",Framing Britney Spears (2021)
+http://magmas5.com:8000/movie/malotv/gratis/137321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Este cuerpo me sienta de muerte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIyCHFNJVqYzvqBlytJbDqCUnIC.jpg" group-title="ENGLISH MOVIES",Este cuerpo me sienta de muerte (2020)
+http://magmas5.com:8000/movie/malotv/gratis/137322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Host (2020)" tvg-logo="http://magmas5.com:8000/images/14db263b6c3ada0f385327a522f07ae4.jpg" group-title="ENGLISH MOVIES",Host (2020)
+http://magmas5.com:8000/movie/malotv/gratis/137323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mank (2020)" tvg-logo="http://magmas5.com:8000/images/5e87ca10741ef56b683d2c5a17fc816e.jpg" group-title="ENGLISH MOVIES",Mank (2020)
+http://magmas5.com:8000/movie/malotv/gratis/137324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Days of Mercy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adIPKAoKnKL9vCTkvfF4J9ZA7Ln.jpg" group-title="ENGLISH MOVIES",My Days of Mercy (2018)
+http://magmas5.com:8000/movie/malotv/gratis/137325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Mexican Bretzel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viCblnp5uviIXei2ZxCOD83EKK1.jpg" group-title="ENGLISH MOVIES",My Mexican Bretzel (2020)
+http://magmas5.com:8000/movie/malotv/gratis/137326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SAS: Red Notice (2021)" tvg-logo="http://magmas5.com:8000/images/a657c3da6748678513f643cbe82dcaba.jpg" group-title="ENGLISH MOVIES",SAS: Red Notice (2021)
+http://magmas5.com:8000/movie/malotv/gratis/137327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenet (2020)" tvg-logo="http://magmas5.com:8000/images/d3e1df64124cbe467cba0c0f5dbe5de0.jpg" group-title="ENGLISH MOVIES",Tenet (2020)
+http://magmas5.com:8000/movie/malotv/gratis/137328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dry (2021)" tvg-logo="http://magmas5.com:8000/images/a35da6b357d35d8c671d0097f312e651.jpg" group-title="ENGLISH MOVIES",The Dry (2021)
+http://magmas5.com:8000/movie/malotv/gratis/137329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mauritanian (2021)" tvg-logo="http://magmas5.com:8000/images/5285dc6fbd62483b7c6a4c1f118119f7.jpg" group-title="ENGLISH MOVIES",The Mauritanian (2021)
+http://magmas5.com:8000/movie/malotv/gratis/137330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Estados Unidos contra Billie Holiday (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ErczuRvIF4cd7IJNc04RO1RB5B.jpg" group-title="ENGLISH MOVIES",Los Estados Unidos contra Billie Holiday (2021)
+http://magmas5.com:8000/movie/malotv/gratis/137331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tina (2021)" tvg-logo="http://magmas5.com:8000/images/0b1cd38e1e599945482afb7b1378a0c9.jpg" group-title="ENGLISH MOVIES",Tina (2021)
+http://magmas5.com:8000/movie/malotv/gratis/137332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Springsteen: Western Stars (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUaeKBQ06qwi5ySmznFM5BEnAvF.jpg" group-title="CONCIERTOS",Bruce Springsteen: Western Stars (2019)
+http://magmas5.com:8000/movie/malotv/gratis/137333.mkv
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="03 | TLNOVELAS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="NOVELAS",03 | TLNOVELAS UHD
+http://magmas5.com:8000/malotv/gratis/3798
+#EXTINF:-1 tvg-id="" tvg-name="PARAGUAY | ABC TV HD" tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/ABC-Logo.png" group-title="PARAGUAY",PARAGUAY | ABC TV HD
+http://magmas5.com:8000/malotv/gratis/137543
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="29 | Antena 6 HD" tvg-logo="http://www.antenaseis.com/wp-content/uploads/2018/06/cropped-logo-antena-seis.png" group-title="COSTA RICA",29 | Antena 6 HD
+http://magmas5.com:8000/malotv/gratis/137918
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="USA | MLS YES NETWORK HD" tvg-logo="https://oddslifenetstorage.blob.core.windows.net/sbcnews/2015/07/mls.png" group-title="USA",USA | MLS YES NETWORK HD
+http://magmas5.com:8000/malotv/gratis/137923
+#EXTINF:-1 tvg-id="FoxSportsHDArgentina.ar" tvg-name="28 | FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="DEPORTES SD",28 | FOX SPORTS PREMIUM
+http://magmas5.com:8000/malotv/gratis/138034
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="29 | FOX SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="DEPORTES SD",29 | FOX SPORTS 
+http://magmas5.com:8000/malotv/gratis/138035
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="12 | DISNEY XD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTILES SD",12 | DISNEY XD MX
+http://magmas5.com:8000/malotv/gratis/138189
+#EXTINF:-1 tvg-id="" tvg-name="30 | ESPN EXTRA MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="DEPORTES SD",30 | ESPN EXTRA MX
+http://magmas5.com:8000/malotv/gratis/138192
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig FHD" tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/05/24/videos/1621837794_049380_1621837848_portada_normal.jpg" group-title="CANALES 24/7",24/7 | Peppa Pig FHD
+http://magmas5.com:8000/malotv/gratis/140377
+#EXTINF:-1 tvg-id="" tvg-name="31 | FUTV TV OPC. 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/640px-Logo_de_FUTV.svg.png" group-title="DEPORTES SD",31 | FUTV TV OPC. 2 SD
+http://magmas5.com:8000/malotv/gratis/140409
+#EXTINF:-1 tvg-id="CitytvBogota.co" tvg-name="34 | CITY TV" tvg-logo="" group-title="COLOMBIA  ",34 | CITY TV
+http://magmas5.com:8000/malotv/gratis/140410
+#EXTINF:-1 tvg-id="HBOXtremeHDLatinAmerica.us" tvg-name="ES || XTREM HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || XTREM HD
+http://magmas5.com:8000/malotv/gratis/126353
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ES || TNT HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || TNT HD
+http://magmas5.com:8000/malotv/gratis/126354
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || MOVISTAR SERIESMANIA" tvg-logo="" group-title="ESPAÑA SERIES",ES || MOVISTAR SERIESMANIA
+http://magmas5.com:8000/malotv/gratis/126355
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || MOVISTAR SERIESMANIA FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || MOVISTAR SERIESMANIA FULLHD
+http://magmas5.com:8000/malotv/gratis/126356
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES || CALLE 13" tvg-logo="" group-title="ESPAÑA SERIES",ES || CALLE 13
+http://magmas5.com:8000/malotv/gratis/126357
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES || CALLE 13 FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || CALLE 13 FULLHD
+http://magmas5.com:8000/malotv/gratis/126358
+#EXTINF:-1 tvg-id="FoxSpain.es" tvg-name="ES || FOX FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX FULLHD
+http://magmas5.com:8000/malotv/gratis/126360
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || FOX LIFE" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX LIFE
+http://magmas5.com:8000/malotv/gratis/126361
+#EXTINF:-1 tvg-id="FoxLifeSpain.es" tvg-name="ES || FOX LIFE FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX LIFE FHD
+http://magmas5.com:8000/malotv/gratis/126362
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || AXN" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN
+http://magmas5.com:8000/malotv/gratis/126363
+#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="ES || AXN HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN HD
+http://magmas5.com:8000/malotv/gratis/126364
+#EXTINF:-1 tvg-id="AXNEurope.gr" tvg-name="ES || AXN FULL HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN FULL HD
+http://magmas5.com:8000/malotv/gratis/126365
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ES || AXN  WHITE" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN  WHITE
+http://magmas5.com:8000/malotv/gratis/126366
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ES || AXN  WHITE FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN  WHITE FHD
+http://magmas5.com:8000/malotv/gratis/126367
+#EXTINF:-1 tvg-id="I14.87057.schedulesdirect.org" tvg-name="ES || AMC" tvg-logo="" group-title="ESPAÑA SERIES",ES || AMC
+http://magmas5.com:8000/malotv/gratis/126368
+#EXTINF:-1 tvg-id="AMCSpain.es" tvg-name="ES || AMC FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AMC FHD
+http://magmas5.com:8000/malotv/gratis/126369
+#EXTINF:-1 tvg-id="I10.87056.schedulesdirect.org" tvg-name="ES || FOX LIVE HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX LIVE HD
+http://magmas5.com:8000/malotv/gratis/126370
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || FOX HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX HD
+http://magmas5.com:8000/malotv/gratis/126371
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ES || TNT" tvg-logo="" group-title="ESPAÑA SERIES",ES || TNT
+http://magmas5.com:8000/malotv/gratis/126372
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="ES || TNT FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || TNT FHD
+http://magmas5.com:8000/malotv/gratis/126373
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || SYFY" tvg-logo="" group-title="ESPAÑA SERIES",ES || SYFY
+http://magmas5.com:8000/malotv/gratis/126374
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || SYFY HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || SYFY HD
+http://magmas5.com:8000/malotv/gratis/126375
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || SYFY FHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || SYFY FHD
+http://magmas5.com:8000/malotv/gratis/126376
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES || CALLE 13 HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || CALLE 13 HD
+http://magmas5.com:8000/malotv/gratis/126377
+#EXTINF:-1 tvg-id="" tvg-name="ES || COSMOS" tvg-logo="" group-title="ESPAÑA SERIES",ES || COSMOS
+http://magmas5.com:8000/malotv/gratis/126378
+#EXTINF:-1 tvg-id="" tvg-name="ES || COSMOS HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || COSMOS HD
+http://magmas5.com:8000/malotv/gratis/126379
+#EXTINF:-1 tvg-id="CosmopolitanTV.es" tvg-name="ES || COSMOPOLITAN  FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || COSMOPOLITAN  FULLHD
+http://magmas5.com:8000/malotv/gratis/126380
+#EXTINF:-1 tvg-id="ComedyCentralSpain.es" tvg-name="ES || COMEDY  CENTRAL" tvg-logo="" group-title="ESPAÑA SERIES",ES || COMEDY  CENTRAL
+http://magmas5.com:8000/malotv/gratis/126381
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="ES || AXN WHITE HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || AXN WHITE HD
+http://magmas5.com:8000/malotv/gratis/126382
+#EXTINF:-1 tvg-id="ComedyCentralSpain.es" tvg-name="ES || COMEDY CENTRAL FULLHD" tvg-logo="" group-title="ESPAÑA SERIES",ES || COMEDY CENTRAL FULLHD
+http://magmas5.com:8000/malotv/gratis/126383
+#EXTINF:-1 tvg-id="" tvg-name="ES || MTV HD" tvg-logo="" group-title="ESPAÑA SERIES",ES || MTV HD
+http://magmas5.com:8000/malotv/gratis/126384
+#EXTINF:-1 tvg-id="" tvg-name="ES || FDF" tvg-logo="" group-title="ESPAÑA SERIES",ES || FDF
+http://magmas5.com:8000/malotv/gratis/126385
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || DKISS" tvg-logo="" group-title="ESPAÑA SERIES",ES || DKISS
+http://magmas5.com:8000/malotv/gratis/126386
+#EXTINF:-1 tvg-id="" tvg-name="ES || A3SERIES" tvg-logo="" group-title="ESPAÑA SERIES",ES || A3SERIES
+http://magmas5.com:8000/malotv/gratis/126387
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-name="ES || FOX" tvg-logo="" group-title="ESPAÑA SERIES",ES || FOX
+http://magmas5.com:8000/malotv/gratis/126359
+#EXTINF:-1 tvg-id="" tvg-name="01 | GOL PERU HD" tvg-logo="" group-title="PERU - LIGA 1⚽",01 | GOL PERU HD
+http://magmas5.com:8000/malotv/gratis/140568
+#EXTINF:-1 tvg-id="" tvg-name="02 | GOL PERU FHD" tvg-logo="" group-title="PERU - LIGA 1⚽",02 | GOL PERU FHD
+http://magmas5.com:8000/malotv/gratis/140569
+#EXTINF:-1 tvg-id="" tvg-name="03 | LATINA" tvg-logo="" group-title="PERU - LIGA 1⚽",03 | LATINA
+http://magmas5.com:8000/malotv/gratis/140570
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="04 | MOVISTAR DEPORTES" tvg-logo="" group-title="PERU - LIGA 1⚽",04 | MOVISTAR DEPORTES
+http://magmas5.com:8000/malotv/gratis/140572
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="05 | MOVISTAR DEPORTES" tvg-logo="" group-title="PERU - LIGA 1⚽",05 | MOVISTAR DEPORTES
+http://magmas5.com:8000/malotv/gratis/140574
+#EXTINF:-1 tvg-id="" tvg-name="19 | ACV VISIÓN HD AZOGUES" tvg-logo="https://static.wixstatic.com/media/d75a0b_9687b20db9334e2dac1b89c4e43347f3~mv2.png" group-title="ECUADOR ",19 | ACV VISIÓN HD AZOGUES
+http://magmas5.com:8000/malotv/gratis/140814
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Blooppers HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/250px-AFHV_new_logo_%28main%29.png" group-title="CANALES 24/7",24/7 | Blooppers HD
+http://magmas5.com:8000/malotv/gratis/140815
+#EXTINF:-1 tvg-id="" tvg-name="25 | BH TV HD " tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="PERU",25 | BH TV HD 
+http://magmas5.com:8000/malotv/gratis/140818
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.es" tvg-name="21 | HOLA TV MX UHD®" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="CULTURA UHD",21 | HOLA TV MX UHD®
+http://magmas5.com:8000/malotv/gratis/140819
+#EXTINF:-1 tvg-id="" tvg-name="30 | CANAL 38 MUSIC TV  HD" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/Logo-Nuevo-400.jpg" group-title="COSTA RICA",30 | CANAL 38 MUSIC TV  HD
+http://magmas5.com:8000/malotv/gratis/140820
+#EXTINF:-1 tvg-id="" tvg-name="SUR | CANAL 12 UY (MELO)" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_01/large.sketch-1578632772638.png.1192c67bb9b37970791d8201a7434b41.png" group-title="CANALES AMÉRICA SUR STD",SUR | CANAL 12 UY (MELO)
+http://magmas5.com:8000/malotv/gratis/140823
+#EXTINF:-1 tvg-id="" tvg-name="27 | CANAL 12 (MELO) HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_01/large.sketch-1578632772638.png.1192c67bb9b37970791d8201a7434b41.png" group-title="URUGUAY",27 | CANAL 12 (MELO) HD
+http://magmas5.com:8000/malotv/gratis/140824
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="USA | HLN HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="USA",USA | HLN HD 
+http://magmas5.com:8000/malotv/gratis/140825
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BARON ROJO HD" tvg-logo="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/2771.png" group-title="CANALES 24/7",24/7 | BARON ROJO HD
+http://magmas5.com:8000/malotv/gratis/140841
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10 FUERZA ALIENIGENA HD " tvg-logo="https://2.bp.blogspot.com/-TzCqFw6xpDQ/V_PWw-VyJJI/AAAAAAAAAX8/av8KfBKc2_gXuISVbL9ny6T_niOLtskxQCEw/s1600/prop_nav_slice_ben10af.png" group-title="CANALES 24/7",24/7 | BEN 10 FUERZA ALIENIGENA HD 
+http://magmas5.com:8000/malotv/gratis/140842
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BEN 10 HD" tvg-logo="https://e7.pngegg.com/pngimages/597/703/png-clipart-ben-10-animated-series-storyboard-others-miscellaneous-reading.png" group-title="CANALES 24/7",24/7 | BEN 10 HD
+http://magmas5.com:8000/malotv/gratis/140843
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | BIRDMAN " tvg-logo="https://img2.freepng.es/20190523/lau/kisspng-harvey-birdman-animated-cartoon-hanna-barbera-comi-avenger-sitting-on-birdmans-arm-5ce63b74832244.6602266615585923725371.jpg" group-title="CANALES 24/7",24/7 | BIRDMAN 
+http://magmas5.com:8000/malotv/gratis/140844
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | EL CHAPULÍN COLORADO ANIMADO" tvg-logo="https://www.clipartmax.com/png/middle/164-1644538_el-chapulin-colorado-chapulin-colorado-en-png.png" group-title="CANALES 24/7",24/7 | EL CHAPULÍN COLORADO ANIMADO
+http://magmas5.com:8000/malotv/gratis/140845
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DANIEL EL TRAVIESO" tvg-logo="https://3.bp.blogspot.com/-WR6-Gz-vZng/VG4GF3jbl4I/AAAAAAAApP4/p2Q6jLzT5fI/s1600/DANI-111.jpg" group-title="CANALES 24/7",24/7 | DANIEL EL TRAVIESO
+http://magmas5.com:8000/malotv/gratis/140846
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DICK TRACY" tvg-logo="https://toppng.com/uploads/preview/dick-tracy-vector-logo-free-download-11574190303yfzhlq6drg.png" group-title="CANALES 24/7",24/7 | DICK TRACY
+http://magmas5.com:8000/malotv/gratis/140847
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DIGIMON ADVENTURE " tvg-logo="https://w7.pngwing.com/pngs/732/616/png-transparent-logo-agumon-palmon-digimon-adventure-tri-digimon-game-text-logo.png" group-title="CANALES 24/7",24/7 | DIGIMON ADVENTURE 
+http://magmas5.com:8000/malotv/gratis/140848
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | AFV HOME HD " tvg-logo="http://cdn.teleon.tv/logo/afv-espanol-us.png" group-title="CANALES 24/7",24/7 | AFV HOME HD 
+http://magmas5.com:8000/malotv/gratis/140867
+#EXTINF:-1 tvg-id="BBCWorldNewsNorthAmerica.uk" tvg-name="10 | BBC WORLD NEWS" tvg-logo="https://seeklogo.com/images/B/bbc-news-global-logo-AAC6CDF27E-seeklogo.com.png" group-title="NOTICIAS - NEWS - 24/7",10 | BBC WORLD NEWS
+http://magmas5.com:8000/malotv/gratis/141387
+#EXTINF:-1 tvg-id="" tvg-name="01 - NOVEDADES ESTRENOS VOD Y SERIES (NOVIEMBRE - DICIEMBRE)" tvg-logo="https://asviva.es/wp-content/uploads/2017/10/novedades-1.png" group-title="NOVEDADES DEL SERVICIO",01 - NOVEDADES ESTRENOS VOD Y SERIES (NOVIEMBRE - DICIEMBRE)
+http://magmas5.com:8000/malotv/gratis/141619
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="35 | TELE ISLAS" tvg-logo="https://png.pngitem.com/pimgs/s/80-806582_caracol-noticias-hd-png-download.png" group-title="COLOMBIA  ",35 | TELE ISLAS
+http://magmas5.com:8000/malotv/gratis/141622
+#EXTINF:-1 tvg-id="" tvg-name="02 - MULTIVIEW CANALES DE DEPORTES" tvg-logo="https://asviva.es/wp-content/uploads/2017/10/novedades-1.png" group-title="NOVEDADES DEL SERVICIO",02 - MULTIVIEW CANALES DE DEPORTES
+http://magmas5.com:8000/malotv/gratis/141626
+#EXTINF:-1 tvg-id="" tvg-name="03 - MULTIVIEW CANALES DE CULTURA" tvg-logo="https://asviva.es/wp-content/uploads/2017/10/novedades-1.png" group-title="NOVEDADES DEL SERVICIO",03 - MULTIVIEW CANALES DE CULTURA
+http://magmas5.com:8000/malotv/gratis/141627
+#EXTINF:-1 tvg-id="" tvg-name="04 - MULTIVIEW CANALES DE CINE" tvg-logo="https://asviva.es/wp-content/uploads/2017/10/novedades-1.png" group-title="NOVEDADES DEL SERVICIO",04 - MULTIVIEW CANALES DE CINE
+http://magmas5.com:8000/malotv/gratis/141628
+#EXTINF:-1 tvg-id="" tvg-name="53 || CEA COM ORURO TV HD" tvg-logo="https://renuevadigital.com.bo/assets/img/icono.png" group-title="BOLIVIA",53 || CEA COM ORURO TV HD
+http://magmas5.com:8000/malotv/gratis/141629
+#EXTINF:-1 tvg-id="" tvg-name="54 || ESTRELLA TV HD" tvg-logo="https://listinusa.net/wp-content/uploads/2018/01/estrella-TV-logo.png" group-title="BOLIVIA",54 || ESTRELLA TV HD
+http://magmas5.com:8000/malotv/gratis/141630
+#EXTINF:-1 tvg-id="" tvg-name="EL SALVADOR | TIGO SPORTS FHD" tvg-logo="" group-title="EL SALVADOR",EL SALVADOR | TIGO SPORTS FHD
+http://magmas5.com:8000/malotv/gratis/141924
+#EXTINF:-1 tvg-id="" tvg-name="21 | MAROÑAS TV HD" tvg-logo="https://seeklogo.com/images/M/maro__as-logo-E873D14D49-seeklogo.com.png" group-title="URUGUAY",21 | MAROÑAS TV HD
+http://magmas5.com:8000/malotv/gratis/142016
+#EXTINF:-1 tvg-id="" tvg-name="22 | GOLTV HD UY (Fútbol)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" group-title="URUGUAY",22 | GOLTV HD UY (Fútbol)
+http://magmas5.com:8000/malotv/gratis/142017
+#EXTINF:-1 tvg-id="" tvg-name="23 | TV CIUDAD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_Tev%C3%A9_Ciudad.png" group-title="URUGUAY",23 | TV CIUDAD HD
+http://magmas5.com:8000/malotv/gratis/142018
+#EXTINF:-1 tvg-id="DAZN2Spain.uk" tvg-name="18 | DAZN 2" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",18 | DAZN 2
+http://magmas5.com:8000/malotv/gratis/144815
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="19 | DAZN 3" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",19 | DAZN 3
+http://magmas5.com:8000/malotv/gratis/144816
+#EXTINF:-1 tvg-id="DAZN4Spain.uk" tvg-name="20 |   DAZN 4" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",20 |   DAZN 4
+http://magmas5.com:8000/malotv/gratis/144817
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="21 | BT SPORT 1" tvg-logo="" group-title="⚽LIGAS DE FÚTBOL EUROPA⚽",21 | BT SPORT 1
+http://magmas5.com:8000/malotv/gratis/144818
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="02 | UNIVERSAL REALITY UHD" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png" group-title="CINE UHD 1*",02 | UNIVERSAL REALITY UHD
+http://magmas5.com:8000/malotv/gratis/150071
+#EXTINF:-1 tvg-id="" tvg-name="03 | UNIVERSAL PREMIERE (MX) UHD" tvg-logo="" group-title="CINE UHD 1*",03 | UNIVERSAL PREMIERE (MX) UHD
+http://magmas5.com:8000/malotv/gratis/150072
+#EXTINF:-1 tvg-id="" tvg-name="04 | UNIVERSAL TV UHD" tvg-logo="" group-title="CINE UHD 1*",04 | UNIVERSAL TV UHD
+http://magmas5.com:8000/malotv/gratis/150073
+#EXTINF:-1 tvg-id="StudioUniversalMexico.mx" tvg-name="05 | UNIVERSAL CINEMA UHD" tvg-logo="" group-title="CINE UHD 1*",05 | UNIVERSAL CINEMA UHD
+http://magmas5.com:8000/malotv/gratis/150074
+#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="06 | UNIVERSAL CRIME UHD" tvg-logo="" group-title="CINE UHD 1*",06 | UNIVERSAL CRIME UHD
+http://magmas5.com:8000/malotv/gratis/150075
+#EXTINF:-1 tvg-id="UniversalTVMexico.mx" tvg-name="07 | UNIVERSAL COMEDY UHD" tvg-logo="" group-title="CINE UHD 1*",07 | UNIVERSAL COMEDY UHD
+http://magmas5.com:8000/malotv/gratis/150076
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="08 | HBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CINE UHD 1*",08 | HBO UHD
+http://magmas5.com:8000/malotv/gratis/150077
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="09 | HBO 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE UHD 1*",09 | HBO 2 UHD
+http://magmas5.com:8000/malotv/gratis/150078
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="10 | HBO FAMILY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE UHD 1*",10 | HBO FAMILY UHD
+http://magmas5.com:8000/malotv/gratis/150079
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="11 | HBO PLUS UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINE UHD 1*",11 | HBO PLUS UHD
+http://magmas5.com:8000/malotv/gratis/150080
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="12 | HBO SIGNATURE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINE UHD 1*",12 | HBO SIGNATURE UHD
+http://magmas5.com:8000/malotv/gratis/150081
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="43 | EL TRECE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="ARGENTINA NACIONALES",43 | EL TRECE FHD
+http://magmas5.com:8000/malotv/gratis/150281
+#EXTINF:-1 tvg-id="KanalDRomania.ro" tvg-name="10 | KANAL D" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="NOVELAS",10 | KANAL D
+http://magmas5.com:8000/malotv/gratis/150282
+#EXTINF:-1 tvg-id="" tvg-name="27 | TV PERÚ NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="PERU",27 | TV PERÚ NOTICIAS HD
+http://magmas5.com:8000/malotv/gratis/150360
+#EXTINF:-1 tvg-id="RTAmerica.us" tvg-name="28 | RT RUSIA TODAY - ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1200px-Russia-Today-Logo.svg.png" group-title="NOTICIAS - NEWS - 24/7",28 | RT RUSIA TODAY - ESP
+http://magmas5.com:8000/malotv/gratis/150361
+#EXTINF:-1 tvg-id="" tvg-name="40 | AMAGA TV ANTIOQUIA HD" tvg-logo="https://amagatelevision.com/wp-content/uploads/2021/12/LOGO-CON-ESLOGAN-IZQUIEDO-TRANSPARENCIA-1110px.png" group-title="COLOMBIA  ",40 | AMAGA TV ANTIOQUIA HD
+http://magmas5.com:8000/malotv/gratis/150371
+#EXTINF:-1 tvg-id="" tvg-name="41 | MI GENTE TV" tvg-logo="https://colombiamastv.co/Filter-Images-master/img/logos_parrilla_prog/logo_mi_gente.jpg" group-title="COLOMBIA  ",41 | MI GENTE TV
+http://magmas5.com:8000/malotv/gratis/150372
+#EXTINF:-1 tvg-id="DTV.hn" tvg-name="55 || DTV PLAY DEPORTE TOTAL" tvg-logo="https://deportetotal.com.bo/wp-content/uploads/2018/09/dt-horizontal-logo.png" group-title="BOLIVIA",55 || DTV PLAY DEPORTE TOTAL
+http://magmas5.com:8000/malotv/gratis/150373
+#EXTINF:-1 tvg-id="" tvg-name="12 | NICARAGUA | Canal 20 WTV HD" tvg-logo="https://img2.freepng.es/20180330/kyq/kisspng-israel-channel-20-television-channel-broadcasting-20-5abe9f1d0bef92.1643852215224420130489.jpg" group-title="NICARAGUA",12 | NICARAGUA | Canal 20 WTV HD
+http://magmas5.com:8000/malotv/gratis/150656
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| EDUCANAL HD" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/06/edulogo3-300x204.png" group-title="PARAGUAY",Paraguay|| EDUCANAL HD
+http://magmas5.com:8000/malotv/gratis/150657
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| AMAYA TV" tvg-logo="https://www.observacom.org/wp-content/uploads/2016/05/television-paraguaya-en-vivo-online.jpg" group-title="PARAGUAY",Paraguay|| AMAYA TV
+http://magmas5.com:8000/malotv/gratis/150658
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| CANAL 8 VISION HD" tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg" group-title="PARAGUAY",Paraguay|| CANAL 8 VISION HD
+http://magmas5.com:8000/malotv/gratis/150659
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| CANAL 12 RTV HD" tvg-logo="https://pbs.twimg.com/profile_images/1253897472944062465/pqZXWzNU_400x400.jpg" group-title="PARAGUAY",Paraguay|| CANAL 12 RTV HD
+http://magmas5.com:8000/malotv/gratis/150660
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay|| CRISTAL TV HD" tvg-logo="https://pbs.twimg.com/profile_images/3193462255/e1e0b6e7fd2c6a19d238ff4021cc5b82_400x400.jpeg" group-title="PARAGUAY",Paraguay|| CRISTAL TV HD
+http://magmas5.com:8000/malotv/gratis/150661
+#EXTINF:-1 tvg-id="" tvg-name="31 | CANAL 14 TVN HD" tvg-logo="https://www.tvn14.com/wp-content/uploads/2020/12/tvn_14.png" group-title="COSTA RICA",31 | CANAL 14 TVN HD
+http://magmas5.com:8000/malotv/gratis/150683
+#EXTINF:-1 tvg-id="" tvg-name="31 | CANAL 14 TV NORTE HD" tvg-logo="https://www.tvn14.com/wp-content/uploads/2020/12/tvn_14.png" group-title="COSTA RICA",31 | CANAL 14 TV NORTE HD
+http://magmas5.com:8000/malotv/gratis/150684
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas Show " tvg-logo="https://www.desdelaplaza.com/wp-content/uploads/2015/04/cantinflas.png" group-title="CANALES 24/7",24/7 | Cantinflas Show 
+http://magmas5.com:8000/malotv/gratis/150692
+#EXTINF:-1 tvg-id="" tvg-name="RD | TELECIBAO HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/TELECIBAO001-696x392.png" group-title="REPUBLICA DOMINICANA",RD | TELECIBAO HD
+http://magmas5.com:8000/malotv/gratis/150867
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="42 | TELEANTIOQUIA HD" tvg-logo="" group-title="COLOMBIA  ",42 | TELEANTIOQUIA HD
+http://magmas5.com:8000/malotv/gratis/151051
+#EXTINF:-1 tvg-id="" tvg-name="Tomorrowland - One World Radio" tvg-logo="https://i3.ytimg.com/vi/araK9j8mN9Y/maxresdefault.jpg" group-title="MÚSICA UHD",Tomorrowland - One World Radio
+http://magmas5.com:8000/malotv/gratis/151117
+#EXTINF:-1 tvg-id="" tvg-name="Una monja en pecado (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/poEoSLQrCekYKgQaNOm6XLKkgDO.jpg" group-title="CLÁSICOS + WESTERN",Una monja en pecado (1986)
+http://magmas5.com:8000/movie/malotv/gratis/157956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía del infierno (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXBy47Q364UcQuZifpBECjt8N1X.jpg" group-title="⭐️RECIÉN AGREGADAS⭐️",Anatomía del infierno (2004)
+http://magmas5.com:8000/movie/malotv/gratis/157972.avi
+#EXTINF:-1 tvg-id="" tvg-name="Diario de un adicto al sexo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWE0sa9jyYYWmVpBhlx5nIAwB7w.jpg" group-title="⭐️RECIÉN AGREGADAS⭐️",Diario de un adicto al sexo (2001)
+http://magmas5.com:8000/movie/malotv/gratis/157973.avi
+#EXTINF:-1 tvg-id="" tvg-name="XXX +18 Selen la reina de los elefantes ESP" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipDP66Jv7XJNL5UgHSi0MStjTp0.jpg" group-title="⛔ ADULTOS⛔",XXX +18 Selen la reina de los elefantes ESP
+http://magmas5.com:8000/movie/malotv/gratis/157974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Suite 16 (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TWH8t8pf31LGK0APvsT2HHMryc.jpg" group-title="⛔ ADULTOS⛔",Suite 16 (1994)
+http://magmas5.com:8000/movie/malotv/gratis/157975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tedio (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhKtsvF0SMoynjkNag3rJFLPwEn.jpg" group-title="⭐️RECIÉN AGREGADAS⭐️",Tedio (1998)
+http://magmas5.com:8000/movie/malotv/gratis/157976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo Decadence (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGKTchcDyavtu0OBgQx0huWu1zM.jpg" group-title="CLÁSICOS + WESTERN",Tokyo Decadence (1992)
+http://magmas5.com:8000/movie/malotv/gratis/157977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="David Guetta 2020 | United at Home - Fundraising Live from NYC " tvg-logo="https://pbs.twimg.com/media/EY0H-3eXgAAEIsk.jpg" group-title="CONCIERTOS",David Guetta 2020 | United at Home - Fundraising Live from NYC 
+http://magmas5.com:8000/movie/malotv/gratis/137889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo ataca de noche (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82DOtvnmfasO8e1Cf2WLTbMDwxG.jpg" group-title="CLÁSICOS + WESTERN",El diablo ataca de noche (1957)
+http://magmas5.com:8000/movie/malotv/gratis/140506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="41 | TIGO SPORTS EL SALVADOR HD" tvg-logo="" group-title="PACK FUTBOL⚽",41 | TIGO SPORTS EL SALVADOR HD
+http://magmas5.com:8000/malotv/gratis/141925
+#EXTINF:-1 tvg-id="" tvg-name="46 | TIGO SPORTS HONDURAS HD" tvg-logo="" group-title="PACK FUTBOL⚽",46 | TIGO SPORTS HONDURAS HD
+http://magmas5.com:8000/malotv/gratis/144608
+#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-name="08 | FOX SPORTS 3 MX HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Fox_sports_3.png" group-title="MEXICO - LIGA MX ⚽",08 | FOX SPORTS 3 MX HD 
+http://magmas5.com:8000/malotv/gratis/144619
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-name="47 | BEIN SPORTS XTRA Ñ MX" tvg-logo="" group-title="PACK FUTBOL⚽",47 | BEIN SPORTS XTRA Ñ MX
+http://magmas5.com:8000/malotv/gratis/144620
+#EXTINF:-1 tvg-id="" tvg-name="05 | DIRECTV SPORTS (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="COLOMBIA -PRIMERA A⚽",05 | DIRECTV SPORTS (COL)
+http://magmas5.com:8000/malotv/gratis/145404
+#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="06 | FOX SPORTS 2 (COL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="COLOMBIA -PRIMERA A⚽",06 | FOX SPORTS 2 (COL)
+http://magmas5.com:8000/malotv/gratis/145407
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="07 | FOX SPORTS 3 (COL)" tvg-logo="" group-title="COLOMBIA -PRIMERA A⚽",07 | FOX SPORTS 3 (COL)
+http://magmas5.com:8000/malotv/gratis/145409
+#EXTINF:-1 tvg-id="" tvg-name="48 | FUTV GRITALO FHD" tvg-logo="https://1.bp.blogspot.com/-fuiNMHxxBa8/Xj9K4sAvkaI/AAAAAAAANKs/JK__aGQCmXoUM-NLaoTKQoi9rl95olQCwCLcBGAsYHQ/s640/futv.png" group-title="PACK FUTBOL⚽",48 | FUTV GRITALO FHD
+http://magmas5.com:8000/malotv/gratis/145807
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="49 | SKY Sports Main Event (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="PACK FUTBOL⚽",49 | SKY Sports Main Event (ES)
+http://magmas5.com:8000/malotv/gratis/145808
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="50 | SKY Sports MIX (UK)" tvg-logo="https://ia800805.us.archive.org/33/items/SkySportsMixNew_201708/sky%20sports%20mix%20new.png" group-title="PACK FUTBOL⚽",50 | SKY Sports MIX (UK)
+http://magmas5.com:8000/malotv/gratis/145811
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="51 | SKY Sports ACTION (UK)" tvg-logo="https://ia600806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="PACK FUTBOL⚽",51 | SKY Sports ACTION (UK)
+http://magmas5.com:8000/malotv/gratis/145814
+#EXTINF:-1 tvg-id="ESPN3South.us" tvg-name="21 | ESPN 3 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="PACK FUTBOL⚽",21 | ESPN 3 UHD
+http://magmas5.com:8000/malotv/gratis/2818
+#EXTINF:-1 tvg-id="CDFHD.cl" tvg-name="12 | CDF UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_CDF-TURNER_2019.png" group-title="PACK FUTBOL⚽",12 | CDF UHD
+http://magmas5.com:8000/malotv/gratis/2686
+#EXTINF:-1 tvg-id="" tvg-name="Un cuento de Navidad (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sh822zcLjxGfF2BogCOLLNCPvSu.jpg" group-title="NAVIDAD-PELICULAS",Un cuento de Navidad (2013)
+http://magmas5.com:8000/movie/malotv/gratis/149227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historias de Navidad (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qE5ZcJQA0tSG1KCiy4Fv0W91dS7.jpg" group-title="NAVIDAD-PELICULAS",Historias de Navidad (1983)
+http://magmas5.com:8000/movie/malotv/gratis/149237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Imperdonable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpZUU24mIn1IQGwovqEUT0AjGj2.jpg" group-title="ACCION-CIENCIA FICCION-AVENTURA",Imperdonable (2021)
+http://magmas5.com:8000/movie/malotv/gratis/149346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tras la línea enemiga (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO9RxmeCKwLV1nggbKd9uSw99ZR.jpg" group-title="⭐️RECIÉN AGREGADAS⭐️",Tras la línea enemiga (2001)
+http://magmas5.com:8000/movie/malotv/gratis/149756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Paseo 5: El Paseo de Oficina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAZ5WNNdgQr2dk2PixcZkWbgezA.jpg" group-title="⭐️RECIÉN AGREGADAS⭐️",El Paseo 5: El Paseo de Oficina (2018)
+http://magmas5.com:8000/movie/malotv/gratis/149948.mp4
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="89 | ON DIRECTV  UHD #1" tvg-logo="https://img1.freepng.es/20180817/cwh/kisspng-logo-tv-directv-brand-vector-graphics-5b773aeab11131.9230178615345405227253.jpg" group-title="DEPORTES UHD ",89 | ON DIRECTV  UHD #1
+http://magmas5.com:8000/malotv/gratis/149988
+#EXTINF:-1 tvg-id="OnDirecTVHDSouth.us" tvg-name="53 | ON DIRECTV UHD (ARG)" tvg-logo="https://img1.freepng.es/20180817/cwh/kisspng-logo-tv-directv-brand-vector-graphics-5b773aeab11131.9230178615345405227253.jpg" group-title="PACK FUTBOL⚽",53 | ON DIRECTV UHD (ARG)
+http://magmas5.com:8000/malotv/gratis/149990
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="09 | WIN SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="PACK FUTBOL⚽",09 | WIN SPORTS 
+http://magmas5.com:8000/malotv/gratis/2683
+#EXTINF:-1 tvg-id="" tvg-name="01 | BRASIL SERIE A #1" tvg-logo="" group-title="FUTBOL - BRASIL SERIE A ⚽",01 | BRASIL SERIE A #1
+http://magmas5.com:8000/malotv/gratis/151101
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="54 | TNT SPORTS 3 UHD (CHIL)" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_3_blanco.png.d74baab65acb6c906a59f093dbba0fb9.png" group-title="PACK FUTBOL⚽",54 | TNT SPORTS 3 UHD (CHIL)
+http://magmas5.com:8000/malotv/gratis/151868
+#EXTINF:-1 tvg-id="" tvg-name="Ciberinfierno: La investigación que destapó el horror (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcMRcTNNnvNRXVgOxEjFssU6QOe.jpg" group-title="Todos los ESTRENOS/2022",Ciberinfierno: La investigación que destapó el horror (2022)
+http://magmas5.com:8000/movie/malotv/gratis/152487.mp4
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="56 | EVENTOS Directv+ FHD" tvg-logo="https://i.blogs.es/2ec255/star-_logo.svg/original.png" group-title="PACK FUTBOL⚽",56 | EVENTOS Directv+ FHD
+http://magmas5.com:8000/malotv/gratis/152907
+#EXTINF:-1 tvg-id="NBATVHD.us" tvg-name="35 | NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="PACK FUTBOL⚽",35 | NBA TV
+http://magmas5.com:8000/malotv/gratis/133071
+#EXTINF:-1 tvg-id="" tvg-name="APP FREE MALO TV (www.malotv.com)" tvg-logo="" group-title="MALOTV SERVICIO (FREE)",APP FREE MALO TV (www.malotv.com)
+http://magmas5.com:8000/malotv/gratis/149619
+#EXTINF:-1 tvg-id="" tvg-name="28 | FORMULA 1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="DEPORTES UHD ",28 | FORMULA 1 FHD
+http://magmas5.com:8000/malotv/gratis/145436
+#EXTINF:-1 tvg-id="" tvg-name="51 | TUDN XTRA #1" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="DEPORTES UHD ",51 | TUDN XTRA #1
+http://magmas5.com:8000/malotv/gratis/145459
+#EXTINF:-1 tvg-id="" tvg-name="58 |  TD+ 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1280px-TD_M%C3%A1s_2_Logo.svg.png" group-title="DEPORTES UHD ",58 |  TD+ 2
+http://magmas5.com:8000/malotv/gratis/145466
+#EXTINF:-1 tvg-id="" tvg-name="57 | TD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TD_M%C3%A1s_Logo.png" group-title="DEPORTES UHD ",57 | TD+
+http://magmas5.com:8000/malotv/gratis/145465
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="09 | ESPN DEPORTES HD ARG" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES UHD ",09 | ESPN DEPORTES HD ARG
+http://magmas5.com:8000/malotv/gratis/145417
+#EXTINF:-1 tvg-id="" tvg-name="42 | GOL PERU HD" tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES UHD ",42 | GOL PERU HD
+http://magmas5.com:8000/malotv/gratis/145450
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="07 | DEPORTV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png" group-title="ARGENTINA NACIONALES",07 | DEPORTV 
+http://magmas5.com:8000/malotv/gratis/3540
+#EXTINF:-1 tvg-id="Metro.ar" tvg-name="30 | METRO " tvg-logo="https://www.pngitem.com/pimgs/m/286-2868325_thumb-image-metro-tv-news-logo-hd-png.png" group-title="ARGENTINA NACIONALES",30 | METRO 
+http://magmas5.com:8000/malotv/gratis/3563
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="35 | EL TRECE HD" tvg-logo="https://www.nicepng.com/png/full/828-8283014_eltrece-logo-eltrece-logo-el-trece.png" group-title="ARGENTINA NACIONALES",35 | EL TRECE HD
+http://magmas5.com:8000/malotv/gratis/3568
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="05 | LN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="ARGENTINA NACIONALES",05 | LN+
+http://magmas5.com:8000/malotv/gratis/3538
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="42 | TNT SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA NACIONALES",42 | TNT SPORTS FHD
+http://magmas5.com:8000/malotv/gratis/131980
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="34 | AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA NACIONALES",34 | AMERICA TV HD
+http://magmas5.com:8000/malotv/gratis/3567
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="23 | TODO NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="ARGENTINA NACIONALES",23 | TODO NOTICIAS
+http://magmas5.com:8000/malotv/gratis/3556
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="03 | TELEFE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA NACIONALES",03 | TELEFE 
+http://magmas5.com:8000/malotv/gratis/3536
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="09 | CANAL 9 HD" tvg-logo="https://www.resistenciaurbana.com/wp-content/uploads/2020/06/84825-canal2b92bhd.png" group-title="ARGENTINA NACIONALES",09 | CANAL 9 HD
+http://magmas5.com:8000/malotv/gratis/3542
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="13 | CHILEVISION" tvg-logo="https://cdn.elobservatodo.cl/sites/elobservatodo.cl/files/imagecache/380x285/imagen_noticia/canales.png" group-title="CHILE",13 | CHILEVISION
+http://magmas5.com:8000/malotv/gratis/130050
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="05 | CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/305px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE",05 | CANAL 13
+http://magmas5.com:8000/malotv/gratis/3311
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="09 |  LA RED " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png" group-title="CHILE",09 |  LA RED 
+http://magmas5.com:8000/malotv/gratis/3529
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="07 | CNN CHILE " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/CNN_Chile_Logo.svg/1280px-CNN_Chile_Logo.svg.png" group-title="CHILE",07 | CNN CHILE 
+http://magmas5.com:8000/malotv/gratis/3316
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="02 | TVN HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVN_HD.svg/1280px-TVN_HD.svg.png" group-title="CHILE",02 | TVN HD 
+http://magmas5.com:8000/malotv/gratis/3307
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="12 |  24 HORAS CL" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tvn-24-h_m.png" group-title="CHILE",12 |  24 HORAS CL
+http://magmas5.com:8000/malotv/gratis/3533
+#EXTINF:-1 tvg-id="" tvg-name="26 | CANAL IPE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="PERU",26 | CANAL IPE HD
+http://magmas5.com:8000/malotv/gratis/148542
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="13 | TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU",13 | TV PERU
+http://magmas5.com:8000/malotv/gratis/3336
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="03 | ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png" group-title="PERU",03 | ATV HD
+http://magmas5.com:8000/malotv/gratis/3320
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="19 | PANAMERICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERU",19 | PANAMERICANA
+http://magmas5.com:8000/malotv/gratis/3351
+#EXTINF:-1 tvg-id="" tvg-name="11 | CANAL N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="PERU",11 | CANAL N
+http://magmas5.com:8000/malotv/gratis/3331
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="06 | LATINA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="PERU",06 | LATINA 
+http://magmas5.com:8000/malotv/gratis/3326
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="18 | PANAMERICANA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERU",18 | PANAMERICANA HD
+http://magmas5.com:8000/malotv/gratis/3350
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-name="14 | CHEDDAR NEW UHD" tvg-logo="https://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="NOTICIAS - NEWS - 24/7",14 | CHEDDAR NEW UHD
+http://magmas5.com:8000/malotv/gratis/148802
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="15 | CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" group-title="NOTICIAS - NEWS - 24/7",15 | CNBC HD
+http://magmas5.com:8000/malotv/gratis/148828
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="02 | CNN ESPAÑOL UHD" tvg-logo="" group-title="NOTICIAS - NEWS - 24/7",02 | CNN ESPAÑOL UHD
+http://magmas5.com:8000/malotv/gratis/141351
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="11 | DW NOTICIAS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS - NEWS - 24/7",11 | DW NOTICIAS MX
+http://magmas5.com:8000/malotv/gratis/141388
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-name="06 | 24H ESPAÑA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="NOTICIAS - NEWS - 24/7",06 | 24H ESPAÑA HD
+http://magmas5.com:8000/malotv/gratis/141355
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="08 | NTN 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/1200px-NTN24_logo.svg.png" group-title="NOTICIAS - NEWS - 24/7",08 | NTN 24 HORAS
+http://magmas5.com:8000/malotv/gratis/141383
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="03 | CNN CHILE UHD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/sml_gallery_11278_7_322.png" group-title="NOTICIAS - NEWS - 24/7",03 | CNN CHILE UHD
+http://magmas5.com:8000/malotv/gratis/141352
+#EXTINF:-1 tvg-id="CNNInternationalLatinAmerica.us" tvg-name="04 | CNN ESPAÑOL (ARGE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTICIAS - NEWS - 24/7",04 | CNN ESPAÑOL (ARGE)
+http://magmas5.com:8000/malotv/gratis/141353
+#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="26 | CBS Sports News HQ USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" group-title="USA",26 | CBS Sports News HQ USA
+http://magmas5.com:8000/malotv/gratis/131018
+#EXTINF:-1 tvg-id="I392.11705.schedulesdirect.org" tvg-name="176| NBC Baltimore USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/NBC_News_2013_logo.png" group-title="USA",176| NBC Baltimore USA
+http://magmas5.com:8000/malotv/gratis/131175
+#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="72 | Fox Atlanta HD USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/WAGA-TV_logo.png/150px-WAGA-TV_logo.png" group-title="USA",72 | Fox Atlanta HD USA
+http://magmas5.com:8000/malotv/gratis/131067
+#EXTINF:-1 tvg-id="EEast.us" tvg-name="USA 1 E! UHD" tvg-logo="https://img2.freepng.es/20180417/gww/kisspng-television-channel-e-television-producer-entertai-tv-shows-5ad61659e7e7d3.0380401115239798659499.jpg" group-title="USA",USA 1 E! UHD
+http://magmas5.com:8000/malotv/gratis/146558
+#EXTINF:-1 tvg-id="CinemaxEast.us" tvg-name="32 | Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="USA",32 | Cinemax USA
+http://magmas5.com:8000/malotv/gratis/131025
+#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="70 | Fox 5 NY USA" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1499337525/wvr5exrlzp4b5jja58iq.png" group-title="USA",70 | Fox 5 NY USA
+http://magmas5.com:8000/malotv/gratis/131065
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="01 | Baby TV USA" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="USA",01 | Baby TV USA
+http://magmas5.com:8000/malotv/gratis/130991
+#EXTINF:-1 tvg-id="" tvg-name="USA | Travel Channel HD" tvg-logo="" group-title="USA",USA | Travel Channel HD
+http://magmas5.com:8000/malotv/gratis/131259
+#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="USA: SPORTSNET WORLD" tvg-logo="" group-title="USA",USA: SPORTSNET WORLD
+http://magmas5.com:8000/malotv/gratis/131341
